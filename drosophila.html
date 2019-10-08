@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Drosophila Crosses</title>
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    </head>
+    <body>
+        <!-- BAR -->
+        <div class="w3-bar w3-black">
+            <button class="w3-bar-item w3-button" onclick="openCity('home')" style="width: 100%;">Home</button>
+            <button class="w3-bar-item w3-button" onclick="openCity('F1RW')" style="width: 25%;">F1 Red Male White Female</button>
+            <button class="w3-bar-item w3-button" onclick="openCity('F1WR')" style="width: 25%;">F1 White Male Red Female</button>
+            <button class="w3-bar-item w3-button" onclick="openCity('F1SR')" style="width: 25%;">F1 Scarlet Male Red Female</button>
+            <button class="w3-bar-item w3-button" onclick="openCity('F1RS')" style="width: 25%;">F1 Red Male Scarlet Female</button>
+
+            <button class="w3-bar-item w3-button" onclick="openCity('F2RW')" style="width: 25%;">F2 Red Male White Female</button>
+            <button class="w3-bar-item w3-button" onclick="openCity('F2WR')" style="width: 25%;">F2 White Male Red Female</button>
+            <button class="w3-bar-item w3-button" onclick="openCity('F2SR')" style="width: 25%;">F2 Scarlet Male Red Female</button>
+            <button class="w3-bar-item w3-button" onclick="openCity('F2RS')" style="width: 25%;">F2 Red Male Scarlet Female</button>
+        </div>
+
+        <div id="home" class="city">
+            <h2 align=center>Home - Drosophila Data Collection</h2>
+            <p style="padding-left: 20px; padding-right: 20px;">
+                In order to simplify the collection of data of the Drosophila Crosses, the following website has been made. Each of the above tabs are for each specific cross. Each cross has its own form that needs to be filled up. The following are the rules to fill up the form -
+                <ul>
+                    <li>Incase no flies were seen of a particular phenotype, mark as 0.</li>
+                    <li>In case a cross was set up, but not succussful, mark 0 for each phenotype.</li>
+                    <li><b>In case a cross wasn't set up at all (generally in F2), DO NOT fill up the form at all.</b> This is done because no progeny is different from no cross.</li>
+                </ul>
+            </p>
+        </div>
+
+        <!-- F1 -->
+        <div id="F1RW" class="city">
+            <h2 align=center>F1 Red Male White Female</h2>
+            <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeauoROraBjrtKpDIgppEz4xA6VbKWpl82qCsG635QJ_He22A/viewform?embedded=true" width="640" height="1187" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+        </div>
+        <div id="F1WR" class="city" style="display:none">
+            <h2 align=center>F1 White Male Red Female</h2>
+            <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCouUDocsc1NCg-p-1uBRJCrENf4ATV_ZpLQ6czLz9FTuQmA/viewform?embedded=true" width="640" height="1187" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+        </div>
+        <div id="F1SR" class="city" style="display:none">
+            <h2 align=center>F1 Scarlet Male Red Female</h2>
+            <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSepT_3XLlC4LR_5FZlDk2LFHicWs73SZ7loULiVwDCXnshJMA/viewform?embedded=true" width="640" height="1187" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+        </div>
+        <div id="F1RS" class="city">
+            <h2 align=center>F1 Red Male Scarlet Female</h2>
+            <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfr1c8REHYJQ36Abu7OeZ7NDY33AvqdAn2hsYelvOVplkHhBA/viewform?embedded=true" width="640" height="1187" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+        </div>
+
+        <!-- F2 -->
+        <div id="F2RW" class="city">
+            <h2 align=center>F2 Red Male White Female</h2>
+            <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelKeIAKLEuxqacbt60r7Aa5DHzaqYXg-gutlHadI371HLVww/viewform?embedded=true" width="640" height="1187" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+        </div>
+        <div id="F2WR" class="city" style="display:none">
+            <h2 align=center>F2 White Male Red Female</h2>
+            <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfyEt5VBb7Ob2bgQp71W0Gj-nXi9aFLqL2qN440nK88nWk1xA/viewform?embedded=true" width="640" height="1187" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+        </div>
+        <div id="F2SR" class="city" style="display:none">
+            <h2 align=center>F2 Scarlet Male Red Female</h2>
+            <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmbGwxTtECo3b7a7qma2duOaoV_k5ZisDjyXMQakp0xvONhQ/viewform?embedded=true" width="640" height="1187" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+        </div>
+        <div id="F2RS" class="city">
+            <h2 align=center>F2 Red Male Scarlet Female</h2>
+            <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCppHzlRPN3EBZ-kXiEvBqeIulaA6MGyNRdm6MWuQyDuKDLg/viewform?embedded=true" width="640" height="1187" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+        </div>
+        <script type="text/javascript">
+            function openCity(cityName) {
+                var i;
+                var x = document.getElementsByClassName("city");
+                for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none";
+                }
+                document.getElementById(cityName).style.display = "block";
+            }
+            openCity('home');
+        </script>
+    </body>
+</html>
