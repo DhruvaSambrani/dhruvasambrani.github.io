@@ -64,5 +64,4 @@
 
 ## [Earthian awards ](https://drive.google.com/file/d/0B8vd4YD-FkfkUmZhUVUwQU53NzdORGpneTlQbE5kaEhNYlRj/view?usp=sharing)\| Wipro-Prakriya \| Sept-Dec 2014
 
-  - Wipro LTD. organizes “[The Earthian
-    Awards](http://wiprofoundation.org/earthian)” as part of their CSR initiative which involves teams from schools and colleges submitting a research report on the broad topic of the year. Our report dealt with the lakes of Bengaluru and how rapid industrialization and urbanization, coupled with unempathetic public policies, have led to declining quality and quantity of the natural resource.
+  - Wipro LTD. organizes “[The Earthian Awards](http://wiprofoundation.org/earthian)” as part of their CSR initiative which involves teams from schools and colleges submitting a research report on the broad topic of the year. Our report dealt with the lakes of Bengaluru and how rapid industrialization and urbanization, coupled with unempathetic public policies, have led to declining quality and quantity of the natural resource.
