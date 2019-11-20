@@ -1,7 +1,6 @@
 # Dhruva Sambrani
 
-\+91
-99453 80169 | [dhruvasambrani19@gmail.com](mailto:dhruvasambrani19@gmail.com?subject=Response%20to%20CV)
+\+91 99453 80169 | [dhruvasambrani19@gmail.com](mailto:dhruvasambrani19@gmail.com?subject=Response%20to%20CV)
 
 # Education
 
