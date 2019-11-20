@@ -42,8 +42,8 @@
 
 # Extra-Curricular Endeavors
 
-## Built The IISER M App for Android - 2019
-  - I created a majority of the Unofficial IISER-M App for Android. A PC version of the same is also underway.
+## Built The IISER M App for Android and PC - 2019
+  - I created a majority of the Unofficial IISER-M App for [Android](https://github.com/DhruvaSambrani/IISER-Android). A [PC version](https://github.com/DhruvaSambrani/IISERM_pc) of the same is also underway.
 
 ## Contributed in building the Pakshi Birding App
   - I contributed in making the Pakshi Birding App under [Dr. Manjari Jain](https://manjarijain.net/)'s [Behavior and Ecology Lab, IISER M](). Pakshi is an app developed  to assist both budding and experienced birders.
