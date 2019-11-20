@@ -1,4 +1,4 @@
 name: My Webpage
 description: Dhruva Sambrani's Webpage
 theme: jekyll-theme-slate
-markdown: GFM
+markdown: kramdown
