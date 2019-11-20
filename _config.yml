@@ -1,1 +1,5 @@
+name: My Webpage
+description: Dhruva Sambrani's Webpage
 theme: jekyll-theme-slate
+url: http://dhruvasambrani.com
+markdown: GFM
