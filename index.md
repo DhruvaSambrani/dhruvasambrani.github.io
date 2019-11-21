@@ -14,10 +14,10 @@ I'm Studying BS-MS Physics at IISER Mohali, and am going to graduate in 2023. Th
   - [Quantitative Analysis of the Force on a Black Body Moving in the Lab Frame](papers/bbr_f_on_particle.pdf) \| [JS Bagla](http://14.139.227.202/Faculty/jasjeet/index.html) \| Winter 2018
 
 ## Coding Projects with Languages Used
-  - Unofficial IISER-M App | Independant | Summer 2019   
+  - Unofficial IISER-M App \| Independant \| Summer 2019   
     - [Android](https://github.com/DhruvaSambrani/IISER-Android)
     - [PC (electron/HTML-JS)](https://github.com/DhruvaSambrani/IISERM_pc)
-  - Pakshi Birding App | BEL, IISER Mohali | Winter 2019
+  - Pakshi Birding App \| BEL, IISER Mohali \| Winter 2019
     - Android
     - Python
     - SQLite
