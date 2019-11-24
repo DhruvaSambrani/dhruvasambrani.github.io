@@ -90,7 +90,14 @@ function loadImages() {
         if (this.readyState == 4 && this.status == 200) {
             str = this.responseText;
             array = str.split(";")
-            console.log(array);
+            for (i=0; i<array.length; i++) {
+                col = document.getElementById('col'+((i-1)%4)+1);
+                img = document.createElement('img');
+                img.src = array[i];
+                img.alt = array[i];
+                img.style.width = 100%;
+                col.appendChild(img);
+            }
         }
     };
     xhttp.open("GET", "imagelist.txt", true);
