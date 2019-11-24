@@ -93,8 +93,8 @@ function loadImages() {
             for (i=0; i<array.length; i++) {
                 col = document.getElementById('col'+((i%4)+1));
                 img = document.createElement('img');
-                img.src = array[i];
-                img.alt = array[i];
+                img.src = array[i].trim();
+                img.alt = array[i].trim();
                 img.style.width = "100%";
                 col.appendChild(img);
             }
