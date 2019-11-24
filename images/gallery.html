@@ -84,14 +84,16 @@ var elements = document.getElementsByClassName("column");
 var i;
 
 function loadImages() {
+    var array;
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
             str = this.responseText;
-            console.log(str);
+            array = str.split(";")
+            console.log(array);
         }
     };
-    xhttp.open("GET", "images.txt", true);
+    xhttp.open("GET", "imagelist.txt", true);
     xhttp.send();
 }
 loadImages();
