@@ -25,4 +25,5 @@ I'm Studying BS-MS Physics at IISER Mohali, and am going to graduate in 2023. Th
     - Julia
   - PlaceHolder - A DBMS in C++ \| Independant \| 2016
     - C++
+
 ## [My Photography](images/gallery)
