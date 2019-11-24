@@ -15,6 +15,7 @@ body {
 .header {
     text-align: center;
     padding: 32px;
+    background:
 }
 
 .row {
@@ -56,13 +57,20 @@ body {
     color: white;
 }
 </style>
+<link rel="stylesheet" href="slate.css">
 </head>
 <body>
 
 <!-- Header -->
+<div id="header_wrap" class="outer">
+    <header class="inner">
+        <h1 id="project_title">My Photographs</h1>
+        <h2 id="project_tagline">A selection of my best photos</h2>
+    </header>
+</div>
+
 <div class="header" id="myHeader">
-    <h1>Image Grid</h1>
-    <p>Click on the buttons to change the grid view.</p>
+    <p>Number of columns</p>
     <button class="btn" onclick="one()">1</button>
     <button class="btn active" onclick="two()">2</button>
     <button class="btn" onclick="four()">4</button>
