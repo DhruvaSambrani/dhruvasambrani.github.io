@@ -1,1 +1,0 @@
-kite.png;myna.png;sparrow.png;crow.png

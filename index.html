@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <title>Homepage</title>
+        <title>Dhruva Sambrani | Homepage</title>
         <link rel="stylesheet" href="css/slate.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
@@ -55,18 +55,28 @@
                         </ul>
                     </li>
                 </ul>
-                <h2 id="my-photography"><a href="images/gallery">My Photography</a></h2>
+                <h2 id="my-photography"><a href="photography/index">My Photography</a></h2>
             </section>
         </div>
         <div id="footer_wrap" class="outer">
             <footer class="inner">
                 <p>Reach Me:
-                <a href="#" class="fa fa-github"></a>
-                <a href="#" class="fa fa-instagram"></a>
-                <a href="#" class="fa fa-google"></a>
+                <a onclick="openGithub()" class="fa fa-github"></a>
+                <a onclick="openInsta()" class="fa fa-instagram"></a>
+                <a href = 'mailto&#58;dhru&#118;%61&#115;a%&#54;Dbr%61&#37;6Ei1%&#51;9&#64;gmail&#46;c&#37;&#54;Fm' class="fa fa-google"></a>
                 </p>
                 <p style="align: center;">Published with <a href="https://pages.github.com">GitHub Pages</a></p>
             </footer>
         </div>
+        <script type="text/javascript">
+            function openGithub(){
+                un = "DhruvaSambrani"
+                window.open("https://github.com/"+un)
+            }
+            function openInsta(){
+                un = "dhruva_sambrani"
+                window.open("https://www.instagram.com/"+un+"/?hl=en")
+            }
+        </script>
     </body>
 </html>
