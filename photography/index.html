@@ -23,8 +23,6 @@
         .column img {
             margin-top: 8px;
             vertical-align: middle;
-            max-width: 100%;
-            margin: 10px;
         }
 
         /* Style the buttons */
@@ -91,7 +89,6 @@ function loadImages() {
                 img = document.createElement('img');
                 img.src = array[i].trim();
                 img.alt = array[i].trim();
-                img.style.width = "100%";
                 col.appendChild(img);
             }
         }
