@@ -87,7 +87,7 @@ function loadImages() {
             str = this.responseText;
             array = str.split(";")
             for (i=0; i<array.length; i++) {
-                col = document.getElementById('col'+(4-(i%4));
+                col = document.getElementById('col'+(4-(i%4)));
                 img = document.createElement('img');
                 img.src = array[i].trim();
                 img.alt = array[i].trim();
