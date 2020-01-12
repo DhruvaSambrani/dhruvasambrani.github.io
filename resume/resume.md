@@ -3,9 +3,10 @@
 ## Education
 
 ### BS-MS \| Aug 2018 - April 2019 \| IISER Mohali
-  - CPI: 9.8
+  - CPI: 9.4
   - SPI (Sem 1): 9.8
   - SPI (Sem 2): 9.8
+  - SPI (Sem 3): 8.8
 
 ### 12<sup>th</sup> Grade \| Apr 2018 \| Primus PU College
 
@@ -22,9 +23,6 @@
   - Math: 95
 
 ## Academic Achievements
-### Mimamsa Center toppers
-
-  - My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P.
 
 ### KVPY
 
@@ -37,16 +35,23 @@
 
   - Attended the Vijyoshi camp in December 2017 against KVPY SA
 
+### Mimamsa Center toppers
+
+  - My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P.
+
 ## Extra-Curricular Endeavors
 
 ### Built The IISER M App for Android and PC - 2019
   - I created a majority of the Unofficial IISER-M App for [Android](https://github.com/DhruvaSambrani/IISER-Android). A [PC version](https://github.com/DhruvaSambrani/IISERM_pc) of the same is also underway.
 
-### Contributed in building the Pakshi Birding App
-  - I contributed in making the Pakshi Birding App under [Dr. Manjari Jain](https://manjarijain.net/)'s [Behavior and Ecology Lab, IISER M](). Pakshi is an app developed  to assist both budding and experienced birders.
+### Contributed in building the Minivet Birding App
+  - I contributed in making the [Minivet Birding App](https://play.google.com/store/apps/details?id=net.manjarijain.minivet) under [Dr. Manjari Jain](https://manjarijain.net/)'s [Behavior and Ecology Lab, IISER M](). Minivet is an app developed  to assist both budding and experienced birders.
 
 ### Teaching underprivileged Children as part of RTE Act - 2016
   - As a way to give back to the community, I taught underprivileged children English and Mathematics for two weeks in my school in 2016. The group involved two children, both of whom had learning disorders.
+
+### Convener, Turing Club (Coding Club), IISER Mohali | 2019-20
+  - I was the convener of the Turing Club of IISER Mohali in the academic year of 2019-20.
 
 ### Knowledge of Multiple Coding Languages
   - I know C++ and actively code in Python, Java (Android). I also am presently learning Julia for Scientific Computing. Please visit [my GitHub account](https://github.com/DhruvaSambrani/repo).
