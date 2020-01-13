@@ -440,10 +440,13 @@ h6 {
 }
 
 p {
+    text-align: justify;
+	text-indent: 2em;
 	margin: 10px 0 15px 0
 }
 
 footer p {
+	text-indent: 0em;
 	color: #f2f2f2
 }
 
