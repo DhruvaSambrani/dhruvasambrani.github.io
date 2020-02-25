@@ -8,7 +8,7 @@
     </head>
     <body>
         <div id="header_wrap" class="outer" style="overflow: hidden; position: relative;">
-            <img src="assets/images/dp.png" style="min-height:0px; height: 80%; float:right; position:absolute; right: 0; top: 0; margin:20px">
+            <img id="dp" src="assets/images/dp.png" style="min-height:0px; height: 80%; float:right; position:absolute; right: 0; top: 0; margin:20px">
             <header class="inner">
                 <h1 id="project_title"><a href="index" style="text-decoration: none; color:white">Dhruva Sambrani</a></h1>
                 <h2 id="project_tagline">About Me</h2>
@@ -56,6 +56,7 @@
                 un = "dhruva_sambrani"
                 window.open("https://www.instagram.com/"+un+"/?hl=en")
             }
+            fetch("https://api.github.com/users/DhruvaSambrani").then(res=>res.json()).then(data => document.getElementById("dp").src = data.avatar_url)
         </script>
     </body>
 </html>
