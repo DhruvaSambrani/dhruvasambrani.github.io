@@ -1,8 +1,8 @@
 sex = str(input("sir or ma'am? "))
 website = str(input("website: "))
 subtopic = str(input("subtopic: "))
-message =f"""
-​​Dear {sex},
+message = f"""
+Dear {sex},
 I am Dhruva Sambrani, a Second Year Int. MS student at IISER Mohali, India. Quantum Computing and Information lies in the perfect intersection of the two of my favourite topics, Physics and Programming. As I did my First Year Summer Project with Dr Arvind on "Introduction to Quantum Computing" and realized that I could apply my love for algorithms to this field.
 
 I was looking for a summer internship in the field of Quantum Computing when I chanced upon the {website} website, which led me to your team's page. As I was reading through your research, sub-topics within Quantum Computing such as {subtopic} which got me interested. Hence I am writing this email to request an undergraduate summer internship for the summer (May-August) of 2020 under your coveted guidance.
@@ -20,11 +20,5 @@ Hoping to hear a positive reply from your side and having an enriching experienc
 Thanks and Regards,
 Dhruva Sambrani
 """
-from tkinter import Tk
-r = Tk()
-r.withdraw()
-r.clipboard_clear()
-r.clipboard_append(message)
-r.update() # now it stays on the clipboard after the window is closed
-r.destroy()
+
 print(message)
