@@ -72,7 +72,7 @@ def makefooter(footerdata):
 
 with open("data.json", "r", encoding="utf8") as f:
     data = json.loads(f.read())
-    with open("index.htm", "w", encoding="utf8") as index:
+    with open("index.html", "w", encoding="utf8") as index:
         index.write(mainhtml.format(
             title=data["title"],
             maincontent=makecontent(data["pages"]),
