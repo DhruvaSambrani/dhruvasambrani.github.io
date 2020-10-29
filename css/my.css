@@ -39,4 +39,14 @@ pre{
     width: 3rem;
     height: 3rem;
 }
-.home-invert {filter: invert();}@media screen and (max-width:30em) {.home {width: 2rem;height: 2rem;}}
+.home-invert {filter: invert();}
+
+@media screen and (max-width:30em) {
+    .home {
+        width: 2rem;
+        height: 2rem;
+    }
+    html {
+        scroll-snap-type: none;
+    }
+}
