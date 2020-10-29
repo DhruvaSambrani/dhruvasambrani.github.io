@@ -1,0 +1,286 @@
+{
+    "title": "Dhruva Sambrani's Website",
+    "baseurl": "https://dhruvasambrani.github.io",
+    "pages": [
+        {
+            "pageid": "edu",
+            "pagename": "Educational Qualifications",
+            "colorscheme": [
+                "dark",
+                "bg-dark-blue"
+            ],
+            "col1": [
+                {
+                    "id": "bs-ms",
+                    "title": "BS-MS",
+                    "subtitle": [
+                        "2018-2023",
+                        "IISER M"
+                    ],
+                    "content": "CPI: 9.39<br/>SPI (Sem 1): 9.8<br/>SPI (Sem 2): 9.8<br/>SPI (Sem 3): 8.8<br/>SPI (Sem 4): 9.4"
+                },
+                {
+                    "id": "puc",
+                    "title": "12th Grade",
+                    "subtitle": [
+                        "2018",
+                        "Primus"
+                    ],
+                    "content": "Physics: 99<br/>Math: 94<br/>Chemistry: 95"
+                }
+            ],
+            "col2": [
+                {
+                    "id": "tenth",
+                    "title": "10th Grade",
+                    "subtitle": [
+                        "2016",
+                        "Prakriya"
+                    ],
+                    "content": "Science: 94<br/>Math: 95"
+                }
+            ]
+        },
+        {
+            "pageid": "code",
+            "pagename": "Programming<br/>Reinventing The World",
+            "colorscheme": [
+                "dark",
+                "bg-navy"
+            ],
+            "col1": [
+                {
+                    "id": "iisermand",
+                    "title": "IISER-M App",
+                    "subtitle": [
+                        "Android",
+                        "Firebase"
+                    ],
+                    "content": "I started making the <a href='https://play.google.com/store/apps/details?id=com.dhruva.iiser'>Unofficial IISER-M app</a> for Android in the Summer of 2019. With 200+ downloads, it remains in constant development with new features being added every 6 Months"
+                },
+                {
+                    "id": "iisermpc",
+                    "title": "IISER-M PC",
+                    "subtitle": [
+                        "HTML-CSS-JS",
+                        "electron"
+                    ],
+                    "content": "A <a href='https://github.com/DhruvaSambrani/IISERM_pc'>PC version</a> of the Unofficial IISER App is in the making, to facilitate easy usage of institute resources"
+                },
+                {
+                    "id": "qcjl",
+                    "title": "QuantumComputing.jl",
+                    "subtitle": [
+                        "Julia"
+                    ],
+                    "content": "An attempt to simulate a Quantum Computer and making a <a href='https://github.com/DhruvaSambrani/QuantumComputing.jl'>Julia module</a> for the same. <a href='https://dhruvasambrani.github.io/papers/qc.pdf'>The associated paper</a> also acts as the documentation"
+                },
+                {
+                    "id": "sim",
+                    "title": "Simulation and Modelling",
+                    "subtitle": [
+                        "Python",
+                        "Coursera"
+                    ],
+                    "content": "Completed the course <a href='https://www.coursera.org/learn/modeling-simulation-natural-processes'>Simulation and modeling of natural processes</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW'>Certificate</a> with a grade of 95.31%"
+                },
+                {
+                    "id": "disc.math",
+                    "title": "Discrete Math for CS (Specialization)",
+                    "subtitle": [
+                        "Python",
+                        "Coursera"
+                    ],
+                    "content": "Completed the Specialization <a href='https://www.coursera.org/specializations/discrete-mathematics'>Introduction to Discrete Mathematics for Computer Science</a> offered by National Research University Higher School of Economics & University of California San Diego. See <a href='https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7'>Certification</a><br/>Courses Completed:<br/>Mathematical Thinking in Computer Science<br/>Introduction to Graph Theory<br/>Combinatorics and Probability<br/>Delivery Problem<br/>Number Theory and Cryptography"
+                }
+            ],
+            "col2": [
+                {
+                    "id": "minivet",
+                    "title": "Minivet Birding App",
+                    "subtitle": [
+                        "Android",
+                        "SQL"
+                    ],
+                    "content": "I <a href=\"http://manjarijain.net/Minivet.html\">contributed</a> in making the <a href=\"https://play.google.com/store/apps/details?id=net.manjarijain.minivet\">Minivet Birding App</a> under <a href=\"https://manjarijain.net/\">Dr. Manjari Jain</a>'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed  to assist both budding and experienced birders."
+                },
+                {
+                    "id": "asn",
+                    "title": "ArcheoSiteNamer",
+                    "subtitle": [
+                        "Python",
+                        "SQL"
+                    ],
+                    "content": "<a href='https://github.com/DhruvaSambrani/ArcheoSiteNamer'>ArcheoSiteNamer</a> is a novel method of naming Archeological Sites. Without a standard naming convention, archeological site names often collide with each other. Hence, with <a href='https://www.researchgate.net/lab/IISERM-Palaeoanthropology-and-Archaeology-Lab-Parth-R-Chauhan'>Parth Chauhan's Lab</a>, I created a DBMS to facilitate easy adoption of the proposed convention."
+                },
+                {
+                    "id": "asn-gui",
+                    "title": "ASN-GUI",
+                    "subtitle": [
+                        "electron",
+                        "SQL"
+                    ],
+                    "content": "<a href='https://github.com/DhruvaSambrani/ArcheoSiteNamer_GUI'>ArcheoSiteNamer GUI</a> is a GUI application which uses the ASN Python backend to make and maintain databases of sites."
+                },
+                {
+                    "id": "func",
+                    "title": "Functional Programming",
+                    "subtitle": [
+                        "Scala",
+                        "Coursera"
+                    ],
+                    "content": "Completed the course <a href='https://www.coursera.org/learn/progfun1'>Functional Programming Principles in Scala</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H'>Certificate</a> with a grade of 96.00%"
+                },
+                {
+                    "id": "ghlink",
+                    "title": "Github Profile",
+                    "subtitle": [
+                        "Multiple Languages"
+                    ],
+                    "content": "Do visit my GitHub profile to see my other projects in a multitude of languages and fields! Link at the bottom of the page"
+                }
+            ]
+        },
+        {
+            "pageid": "research",
+            "pagename": "Research Experience<br/>Discovering the World",
+            "colorscheme": [
+                "dark",
+                "bg-dark-green"
+            ],
+            "col1": [
+                {
+                    "id": "bbr",
+                    "title": "Relativistic Black Body Radiation",
+                    "subtitle": [
+                        "JS Bagla",
+                        "Winter 2018"
+                    ],
+                    "content": "As part of my First Year Winter Project, I took up the project <a href='/papers/bbr_vel_trans.pdf'>Black body radiation in special relativistic frames</a> under <a href='http://14.139.227.202/Faculty/jasjeet/index.html'>JS Bagla, IISER Mohali</a>, where I looked at how Black Body Radiation transforms in a frame that is moving uniformly with respect to the source. We see that the radiation is no more uniform, leading to a force on the particle. The <a href='/papers/bbr_f_on_particle.pdf'>quantitative analysis</a> of this force is done using numerical methods in Julia."
+                }
+            ],
+            "col2": [
+                {
+                    "id": "qc-intro",
+                    "title": "Introduction to Quantum Mechanics and Computing",
+                    "subtitle": [
+                        "Arvind",
+                        "Summer 2019"
+                    ],
+                    "content": "My First Year Summer Project was an introductory reading to the Mathematical Structures that underlie Quantum Mechanics and then take it forward to a theoretical introduction to Quantum Information and Quantum Computing. I also attempt to simulate a Quantum Computer on a Classical computer and making a <a href='https://github.com/DhruvaSambrani/Quantum-Computing'>Julia module</a> for the same. <a href='/papers/qc.pdf'>This paper</a> serves as a very brief introduction to Quantum Computing and documentation of the code in the form while publishing."
+                }
+            ]
+        },
+        {
+            "pageid": "acad",
+            "pagename": "Academic Acheivements",
+            "colorscheme": [
+                "dark",
+                "bg-dark-red"
+            ],
+            "col1": [
+                {
+                    "id": "kvpy",
+                    "title": "KVPY",
+                    "subtitle": [
+                        "600",
+                        "1118",
+                        "24"
+                    ],
+                    "content": "Qualified KVPY SA, SX, SB with a rank of 600, 1118 and 24 respectively and hold a KVPY Fellowship"
+                },
+                {
+                    "id": "vijyoshi",
+                    "title": "Vijyoshi Camp",
+                    "subtitle": [
+                        "2017"
+                    ],
+                    "content": "Attended the Vijyoshi camp in December 2017 against KVPY SA"
+                }
+            ],
+            "col2": [
+                {
+                    "id": "mimamsa",
+                    "title": "Mimamsa Center toppers",
+                    "subtitle": [
+                        "IISER Pune",
+                        "2019"
+                    ],
+                    "content": "My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P."
+                }
+            ]
+        },
+        {
+            "pageid": "excc",
+            "pagename": "Extra-Curricular Activities",
+            "colorscheme": [
+                "light",
+                "bg-gold"
+            ],
+            "col1": [
+                {
+                    "id": "kirana",
+                    "title": "Teaching Underprivileged Children",
+                    "subtitle": [
+                        "2016"
+                    ],
+                    "content": "As a way to give back to the community, I taught underprivileged children English and Mathematics for two weeks in my school in 2016. The group involved two children, both of whom had learning disorders."
+                },
+                {
+                    "id": "pgraphy",
+                    "title": "Photography",
+                    "subtitle": [
+                        ""
+                    ],
+                    "content": "I also occasionally dabble in photography, though I don't consider myself to be very good at it 😅. Visit my <a href='/photography/index'>Photography Page</a> for a peek at some of my photos!"
+                }
+            ],
+            "col2": [
+                {
+                    "id": "turing",
+                    "title": "Convener, Turing Club",
+                    "subtitle": [
+                        "IISER-M",
+                        "2019-20"
+                    ],
+                    "content": "Convener of the Turing Club of IISER Mohali in the academic year of 2019-20."
+                },
+                {
+                    "id": "pr",
+                    "title": "Coding and Programming",
+                    "subtitle": [
+                        ""
+                    ],
+                    "content": "I am an avid programmer and know multiple languages. Visit the <a href='#code'>Programming Section</a> of this website"
+                }
+            ]
+        }
+    ],
+    "contact": [
+        {
+            "name": "gmail",
+            "url": "mailto:dhruvasambrani@gmail.com",
+            "icon": "gmail.svg"
+        },
+        {
+            "name": "iiser",
+            "url": "mailto:ms18163@iisermohali.ac.in",
+            "icon": "iiser.webp"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/DhruvaSambrani",
+            "icon": "github.svg"
+        },
+        {
+            "name": "insta",
+            "url": "https://www.instagram.com/dhruva_sambrani/",
+            "icon": "ig.svg"
+        },
+        {
+            "name": "rescgate",
+            "url": "https://www.researchgate.net/profile/Dhruva_Sambrani",
+            "icon": "rescgate.ico"
+        }
+    ]
+}
