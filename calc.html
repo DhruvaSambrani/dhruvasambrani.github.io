@@ -21,8 +21,11 @@ EndSem<br>
 <input type="button" value="Calculate">
 <br>
 Output<br>
-<input type="number" id="out"><br>
-
+<input type="number" id="out">/90<br>
+If ass=40%<br>
+<input type="number" id="outa">%<br>
+If End sem = 40%<br>
+<input type="number" id="oute">%<br>
 <script type="text/javascript">
 function clickss(){
   vass1 = parseInt(document.getElementById("ass1").value)
@@ -36,6 +39,8 @@ function clickss(){
   calc = (vass1+vass2+vass3+vass4+vass5)*3/5 + vms1/2 + vms2 + ves
   console.log(calc)
   document.getElementById("out").value = calc
+  document.getElementById("outa").value = calc = (vass1+vass2+vass3+vass4+vass5)*4/5 + vms1/2 + vms2 + ves
+  document.getElementById("oute").value = calc = (vass1+vass2+vass3+vass4+vass5)*3/5 + vms1/2 + vms2 + ves*4/3
 }
 </script>
 </html>
