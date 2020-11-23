@@ -1,0 +1,39 @@
+<html>
+
+Assignments<br>
+<br>
+<input type="number" id="ass1" value=10><br>
+<input type="number" id="ass2" value=10><br>
+<input type="number" id="ass3" value=10><br>
+<input type="number" id="ass4" value=10><br>
+<input type="number" id="ass5" value=10><br>
+<br>
+MidSem1<br>
+<input type="number" id="ms1" value=30>/30<br>
+<br> 
+MidSem2<br>
+<input type="number" id="ms2" value=15>/15<br>
+<br>
+EndSem<br>
+<br>
+<input type="number" id="es" value=30>/30<br>
+<br>
+<input type="button" value="Calculate">
+<br>
+Output<br>
+<input type="number" id="out"><br>
+
+<script type="text/javascript">
+function clickss(){
+  vass1 = document.getElementById("ass1").value
+  vass2 = document.getElementById("ass2").value
+  vass3 = document.getElementById("ass3").value
+  vass4 = document.getElementById("ass4").value
+  vass5 = document.getElementById("ass5").value
+  vms1 = document.getElementById("ms1").value
+  vms2 = document.getElementById("ms2").value
+  ves = document.getElementById("es").value
+  document.getElementById("out").value = (vass1+vass2+vass3+vass4+vass5)*3/5 + vms1/2 + vms2 + es
+}
+</script>
+</html>
