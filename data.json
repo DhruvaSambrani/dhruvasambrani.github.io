@@ -233,6 +233,14 @@
                         ""
                     ],
                     "content": "I also occasionally dabble in photography, though I don't consider myself to be very good at it 😅. Visit my <a href='/photography/index'>Photography Page</a> for a peek at some of my photos!"
+                },
+                {
+                    "id": "blog",
+                    "title": "Blog",
+                    "subtitle": [
+                        ""
+                    ],
+                    "content": "I've started a <a href=\"/blog\">new blog</a>, lets see how it goes!"
                 }
             ],
             "col2": [
