@@ -39,9 +39,12 @@ def makeSection(data):
 
 def makeCV(data):
     title = """---
-title: Dhruva Sambrani
+title: Curriculum Vitae
+author: Dhruva Sambrani
+date: \\today
 colorlinks: true
 block-headings: true
+geometry: margin=0.8in
 ---
 """
     sections = "\n".join([makeSection(i) for i in data["pages"]])

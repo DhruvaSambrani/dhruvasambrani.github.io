@@ -1,7 +1,10 @@
 ---
-title: Dhruva Sambrani
+title: Curriculum Vitae
+author: Dhruva Sambrani
+date: \today
 colorlinks: true
 block-headings: true
+geometry: margin=0.8in
 ---
 # Educational Qualifications
 
@@ -12,7 +15,10 @@ CPI: 9.39\
 SPI (Sem 1): 9.8\
 SPI (Sem 2): 9.8\
 SPI (Sem 3): 8.8\
-SPI (Sem 4): 9.4
+SPI (Sem 4): 9.4\
+SPI (Sem 5): 8.1\
+SPI (Sem 6): 8.9\
+SPI (Sem 7): 9.0
 
 ### 12th Grade | 2018 | Primus
 
@@ -32,10 +38,6 @@ Math: 95
 
 I started making the [Unofficial IISER-M app](https://play.google.com/store/apps/details?id=com.dhruva.iiser) for Android in the Summer of 2019. With 200+ downloads, it remains in constant development with new features being added every 6 Months
 
-### IISER-M PC | HTML-CSS-JS | electron
-
-A [PC version](https://github.com/DhruvaSambrani/IISERM_pc) of the Unofficial IISER App is in the making, to facilitate easy usage of institute resources
-
 ### QuantumComputing.jl | Julia
 
 An attempt to simulate a Quantum Computer and making a [Julia module](https://github.com/DhruvaSambrani/QuantumComputing.jl) for the same. [The associated paper](https://dhruvasambrani.github.io/papers/qc.pdf) also acts as the documentation
@@ -54,17 +56,15 @@ Combinatorics and Probability\
 Delivery Problem\
 Number Theory and Cryptography
 
+### Modelling Complex Systems | Julia
+
+As part of a course, I have learnt multiple models often used in the field and explored quite a bit in the following
+
+repository
+
 ### Minivet Birding App | Android | SQL
 
 I [contributed](http://manjarijain.net/Minivet.html) in making the [Minivet Birding App](https://play.google.com/store/apps/details?id=net.manjarijain.minivet) under [Dr. Manjari Jain](https://manjarijain.net/)\'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed to assist both budding and experienced birders.
-
-### ArcheoSiteNamer | Python | SQL
-
-[ArcheoSiteNamer](https://github.com/DhruvaSambrani/ArcheoSiteNamer) is a novel method of naming Archeological Sites. Without a standard naming convention, archeological site names often collide with each other. Hence, with [Parth Chauhan\'s Lab](https://www.researchgate.net/lab/IISERM-Palaeoanthropology-and-Archaeology-Lab-Parth-R-Chauhan), I created a DBMS to facilitate easy adoption of the proposed convention.
-
-### ASN-GUI | electron | SQL
-
-[ArcheoSiteNamer GUI](https://github.com/DhruvaSambrani/ArcheoSiteNamer_GUI) is a GUI application which uses the ASN Python backend to make and maintain databases of sites.
 
 ### Functional Programming | Scala | Coursera
 
@@ -81,11 +81,27 @@ Do visit my GitHub profile to see my other projects in a multitude of languages 
 
 As part of my First Year Winter Project, I took up the project [Black body radiation in special relativistic frames](https://dhruvasambrani.github.io/papers/bbr_vel_trans.pdf) under [JS Bagla, IISER Mohali](http://14.139.227.202/Faculty/jasjeet/index.html), where I looked at how Black Body Radiation transforms in a frame that is moving uniformly with respect to the source. We see that the radiation is no more uniform, leading to a force on the particle. The [quantitative analysis](https://dhruvasambrani.github.io/papers/bbr_f_on_particle.pdf) of this force is done using numerical methods in Julia.
 
+### Ordering Channels | Sarah Brandsen | Winter 2020
+
+An attempt to partial ordering of quantum channels by concepts of Data Driven Inferences. We define an order over the set of positive, trace preserving maps on the existence of another map which when applied would lead to equivalence. Based on Buschemi et. al. \[New J. Phys. 21 113029\] and Dall\'Arno et. al. \[Proc. R. Soc. A.47320160721\]. Left incomplete due to Pandemic and restart of semester.
+
+### Quantum Resetting of Quantum Systems | Manabendra Nath Bera | Summer 2021
+
+An ongoing project building on multiple works on Stochastic Resetting of Classical Systems \[arXiv:2107.11686\] and on Quantum Systems \[arXiv:2008.00510.pdf; Phys. Rev. B 98, 104309\], and extending Anubhav Srivastava\'s Master\'s Thesis \[2021, IISER Mohali\], we apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. We see that for numerical examples, the convergence rate is faster and much closer to the reset location than in stochastic resetting. We want to extend this faster convergence to potentially speed up Quantum Walks \[ISBN:978-3-319-97812-3\], speeding up multiple algorithms which depend on Quantum Walks. Further, stochastic resetting can also model certain biological and economical processes which may be better explained by Quantum Resetting.
+
 ### Introduction to Quantum Mechanics and Computing | Arvind | Summer 2019
 
 My First Year Summer Project was an introductory reading to the Mathematical Structures that underlie Quantum Mechanics and then take it forward to a theoretical introduction to Quantum Information and Quantum Computing. I also attempt to simulate a Quantum Computer on a Classical computer and making a [Julia module](https://github.com/DhruvaSambrani/Quantum-Computing) for the same. [This paper](https://dhruvasambrani.github.io/papers/qc.pdf) serves as a very brief introduction to Quantum Computing and documentation of the code in the form while publishing.
 
-# Academic Acheivements
+### RLNN for Quantum Multiple Hypothesis Testing | Sarah Brandsen | Summer 2020
+
+Optimized certain parts of the code for the algorithm suggested in the paper. Project stopped due to non-continuation of project from guide.
+
+### Superpositioned Grover's Algorithm | Manabendra Nath Bera | Summer 2021
+
+In a similar vein to Quantum Resetting, this is an ongoing project to speed up the Grover\'s Search problem by applying a superposition of the Oracle and the Unitary.
+
+# Academic Achievements
 
 
 ### KVPY | 600 | 1118 | 24
@@ -111,9 +127,13 @@ As a way to give back to the community, I taught underprivileged children Englis
 
 I also occasionally dabble in photography, though I don\'t consider myself to be very good at it . Visit my [Photography Page](https://dhruvasambrani.github.io/photography/index) for a peek at some of my photos!
 
+### Blog
+
+I\'ve started a [new blog](https://dhruvasambrani.github.io/blog), lets see how it goes!
+
 ### Convener, Turing Club | IISER-M | 2019-20
 
-Convener of the Turing Club of IISER Mohali in the academic year of 2019-20.
+Convener of the Turing Club of IISER Mohali in the academic year of 2019-20, and the interim Convener for 2020-21
 
 ### Coding and Programming
 
