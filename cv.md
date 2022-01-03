@@ -11,14 +11,13 @@ geometry: margin=0.8in
 
 ### BS-MS | 2018-2023 | IISER M
 
-CPI: 9.39\
+CPI: 9.1\
 SPI (Sem 1): 9.8\
 SPI (Sem 2): 9.8\
 SPI (Sem 3): 8.8\
 SPI (Sem 4): 9.4\
 SPI (Sem 5): 8.1\
-SPI (Sem 6): 8.9\
-SPI (Sem 7): 9.0
+SPI (Sem 6): 8.9
 
 ### 12th Grade | 2018 | Primus
 
