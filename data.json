@@ -42,83 +42,41 @@
             ]
         },
         {
-            "pageid": "code",
-            "pagename": "Programming<br/>Reinventing The World",
+            "pageid": "acad",
+            "pagename": "Academic Achievements",
             "colorscheme": [
                 "dark",
-                "bg-navy"
+                "bg-dark-red"
             ],
             "col1": [
                 {
-                    "id": "iisermand",
-                    "title": "IISER-M App",
+                    "id": "kvpy",
+                    "title": "KVPY",
                     "subtitle": [
-                        "Android",
-                        "Firebase"
+                        "600",
+                        "1118",
+                        "24"
                     ],
-                    "content": "I started making the <a href='https://play.google.com/store/apps/details?id=com.dhruva.iiser'>Unofficial IISER-M app</a> for Android in the Summer of 2019. With 200+ downloads, it remains in constant development with new features being added every 6 Months"
+                    "content": "Qualified KVPY SA, SX, SB with a rank of 600, 1118 and 24 respectively and hold a KVPY Fellowship"
                 },
                 {
-                    "id": "qcjl",
-                    "title": "QuantumComputing.jl",
+                    "id": "vijyoshi",
+                    "title": "Vijyoshi Camp",
                     "subtitle": [
-                        "Julia"
+                        "2017"
                     ],
-                    "content": "An attempt to simulate a Quantum Computer and making a <a href='https://github.com/DhruvaSambrani/QuantumComputing.jl'>Julia module</a> for the same. <a href='https://dhruvasambrani.github.io/papers/qc.pdf'>The associated paper</a> also acts as the documentation"
-                },
-                {
-                    "id": "sim",
-                    "title": "Simulation and Modelling",
-                    "subtitle": [
-                        "Python",
-                        "Coursera"
-                    ],
-                    "content": "Completed the course <a href='https://www.coursera.org/learn/modeling-simulation-natural-processes'>Simulation and modeling of natural processes</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW'>Certificate</a> with a grade of 95.31%"
-                },
-                {
-                    "id": "disc.math",
-                    "title": "Discrete Math for CS (Specialization)",
-                    "subtitle": [
-                        "Python",
-                        "Coursera"
-                    ],
-                    "content": "Completed the Specialization <a href='https://www.coursera.org/specializations/discrete-mathematics'>Introduction to Discrete Mathematics for Computer Science</a> offered by National Research University Higher School of Economics & University of California San Diego. See <a href='https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7'>Certification</a><br/>Courses Completed:<br/>Mathematical Thinking in Computer Science<br/>Introduction to Graph Theory<br/>Combinatorics and Probability<br/>Delivery Problem<br/>Number Theory and Cryptography"
+                    "content": "Attended the Vijyoshi camp in December 2017 against KVPY SA"
                 }
             ],
             "col2": [
                 {
-                    "id": "mcs",
-                    "title": "Modelling Complex Systems",
+                    "id": "mimamsa",
+                    "title": "Mimamsa Center toppers",
                     "subtitle": [
-                        "Julia"
+                        "IISER Pune",
+                        "2019"
                     ],
-                    "content": "As part of a course, I have learnt multiple models often used in the field and explored quite a bit in the following <a href=\"https://dhruvasambrani.github.io/idc621\">repository</href>"
-                },
-                {
-                    "id": "minivet",
-                    "title": "Minivet Birding App",
-                    "subtitle": [
-                        "Android",
-                        "SQL"
-                    ],
-                    "content": "I <a href=\"http://manjarijain.net/Minivet.html\">contributed</a> in making the <a href=\"https://play.google.com/store/apps/details?id=net.manjarijain.minivet\">Minivet Birding App</a> under <a href=\"https://manjarijain.net/\">Dr. Manjari Jain</a>'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed  to assist both budding and experienced birders."
-                },
-                {
-                    "id": "func",
-                    "title": "Functional Programming",
-                    "subtitle": [
-                        "Scala",
-                        "Coursera"
-                    ],
-                    "content": "Completed the course <a href='https://www.coursera.org/learn/progfun1'>Functional Programming Principles in Scala</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H'>Certificate</a> with a grade of 96.00%"
-                },
-                {
-                    "id": "ghlink",
-                    "title": "Github Profile",
-                    "subtitle": [
-                        "Multiple Languages"
-                    ],
-                    "content": "Do visit my GitHub profile to see my other projects in a multitude of languages and fields! Link at the bottom of the page"
+                    "content": "My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P."
                 }
             ]
         },
@@ -189,41 +147,83 @@
              ]
         },
         {
-            "pageid": "acad",
-            "pagename": "Academic Achievements",
+            "pageid": "code",
+            "pagename": "Programming<br/>Reinventing The World",
             "colorscheme": [
                 "dark",
-                "bg-dark-red"
+                "bg-navy"
             ],
             "col1": [
                 {
-                    "id": "kvpy",
-                    "title": "KVPY",
+                    "id": "iisermand",
+                    "title": "IISER-M App",
                     "subtitle": [
-                        "600",
-                        "1118",
-                        "24"
+                        "Android",
+                        "Firebase"
                     ],
-                    "content": "Qualified KVPY SA, SX, SB with a rank of 600, 1118 and 24 respectively and hold a KVPY Fellowship"
+                    "content": "I started making the <a href='https://play.google.com/store/apps/details?id=com.dhruva.iiser'>Unofficial IISER-M app</a> for Android in the Summer of 2019. With 200+ downloads, it remains in constant development with new features being added every 6 Months"
                 },
                 {
-                    "id": "vijyoshi",
-                    "title": "Vijyoshi Camp",
+                    "id": "qcjl",
+                    "title": "QuantumComputing.jl",
                     "subtitle": [
-                        "2017"
+                        "Julia"
                     ],
-                    "content": "Attended the Vijyoshi camp in December 2017 against KVPY SA"
+                    "content": "An attempt to simulate a Quantum Computer and making a <a href='https://github.com/DhruvaSambrani/QuantumComputing.jl'>Julia module</a> for the same. <a href='https://dhruvasambrani.github.io/papers/qc.pdf'>The associated paper</a> also acts as the documentation"
+                },
+                {
+                    "id": "sim",
+                    "title": "Simulation and Modelling",
+                    "subtitle": [
+                        "Python",
+                        "Coursera"
+                    ],
+                    "content": "Completed the course <a href='https://www.coursera.org/learn/modeling-simulation-natural-processes'>Simulation and modeling of natural processes</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW'>Certificate</a> with a grade of 95.31%"
+                },
+                {
+                    "id": "disc.math",
+                    "title": "Discrete Math for CS (Specialization)",
+                    "subtitle": [
+                        "Python",
+                        "Coursera"
+                    ],
+                    "content": "Completed the Specialization <a href='https://www.coursera.org/specializations/discrete-mathematics'>Introduction to Discrete Mathematics for Computer Science</a> offered by National Research University Higher School of Economics & University of California San Diego. See <a href='https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7'>Certification</a><br/>Courses Completed:<br/>Mathematical Thinking in Computer Science<br/>Introduction to Graph Theory<br/>Combinatorics and Probability<br/>Delivery Problem<br/>Number Theory and Cryptography"
                 }
             ],
             "col2": [
                 {
-                    "id": "mimamsa",
-                    "title": "Mimamsa Center toppers",
+                    "id": "mcs",
+                    "title": "Modelling Complex Systems",
                     "subtitle": [
-                        "IISER Pune",
-                        "2019"
+                        "Julia"
                     ],
-                    "content": "My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P."
+                    "content": "As part of a course, I have learnt multiple models often used in the field and explored quite a bit in the following <a href=\"https://dhruvasambrani.github.io/idc621\">repository</a>"
+                },
+                {
+                    "id": "minivet",
+                    "title": "Minivet Birding App",
+                    "subtitle": [
+                        "Android",
+                        "SQL"
+                    ],
+                    "content": "I <a href=\"http://manjarijain.net/Minivet.html\">contributed</a> in making the <a href=\"https://play.google.com/store/apps/details?id=net.manjarijain.minivet\">Minivet Birding App</a> under <a href=\"https://manjarijain.net/\">Dr. Manjari Jain</a>'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed  to assist both budding and experienced birders."
+                },
+                {
+                    "id": "func",
+                    "title": "Functional Programming",
+                    "subtitle": [
+                        "Scala",
+                        "Coursera"
+                    ],
+                    "content": "Completed the course <a href='https://www.coursera.org/learn/progfun1'>Functional Programming Principles in Scala</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H'>Certificate</a> with a grade of 96.00%"
+                },
+                {
+                    "id": "ghlink",
+                    "title": "Github Profile",
+                    "subtitle": [
+                        "Multiple Languages"
+                    ],
+                    "content": "Do visit my GitHub profile to see my other projects in a multitude of languages and fields! Link at the bottom of the page"
                 }
             ]
         },

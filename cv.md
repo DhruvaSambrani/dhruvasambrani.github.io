@@ -31,48 +31,20 @@ Chemistry: 95
 Science: 94\
 Math: 95
 
-# Programming - Reinventing The World
+# Academic Achievements
 
 
-### IISER-M App | Android | Firebase
+### KVPY | 600 | 1118 | 24
 
-I started making the [Unofficial IISER-M app](https://play.google.com/store/apps/details?id=com.dhruva.iiser) for Android in the Summer of 2019. With 200+ downloads, it remains in constant development with new features being added every 6 Months
+Qualified KVPY SA, SX, SB with a rank of 600, 1118 and 24 respectively and hold a KVPY Fellowship
 
-### QuantumComputing.jl | Julia
+### Vijyoshi Camp | 2017
 
-An attempt to simulate a Quantum Computer and making a [Julia module](https://github.com/DhruvaSambrani/QuantumComputing.jl) for the same. [The associated paper](https://dhruvasambrani.github.io/papers/qc.pdf) also acts as the documentation
+Attended the Vijyoshi camp in December 2017 against KVPY SA
 
-### Simulation and Modelling | Python | Coursera
+### Mimamsa Center toppers | IISER Pune | 2019
 
-Completed the course [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW) with a grade of 95.31%
-
-### Discrete Math for CS (Specialization) | Python | Coursera
-
-Completed the Specialization [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) offered by National Research University Higher School of Economics & University of California San Diego. See [Certification](https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7)\
-Courses Completed:\
-Mathematical Thinking in Computer Science\
-Introduction to Graph Theory\
-Combinatorics and Probability\
-Delivery Problem\
-Number Theory and Cryptography
-
-### Modelling Complex Systems | Julia
-
-As part of a course, I have learnt multiple models often used in the field and explored quite a bit in the following
-
-repository
-
-### Minivet Birding App | Android | SQL
-
-I [contributed](http://manjarijain.net/Minivet.html) in making the [Minivet Birding App](https://play.google.com/store/apps/details?id=net.manjarijain.minivet) under [Dr. Manjari Jain](https://manjarijain.net/)\'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed to assist both budding and experienced birders.
-
-### Functional Programming | Scala | Coursera
-
-Completed the course [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H) with a grade of 96.00%
-
-### Github Profile | Multiple Languages
-
-Do visit my GitHub profile to see my other projects in a multitude of languages and fields! Link at the bottom of the page
+My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P.
 
 # Research Experience - Discovering the World
 
@@ -101,20 +73,46 @@ Optimized certain parts of the code for the algorithm suggested in the paper. Pr
 
 In a similar vein to Quantum Resetting, this is an ongoing project to speed up the Grover\'s Search problem by applying a superposition of the Oracle and the Unitary.
 
-# Academic Achievements
+# Programming - Reinventing The World
 
 
-### KVPY | 600 | 1118 | 24
+### IISER-M App | Android | Firebase
 
-Qualified KVPY SA, SX, SB with a rank of 600, 1118 and 24 respectively and hold a KVPY Fellowship
+I started making the [Unofficial IISER-M app](https://play.google.com/store/apps/details?id=com.dhruva.iiser) for Android in the Summer of 2019. With 200+ downloads, it remains in constant development with new features being added every 6 Months
 
-### Vijyoshi Camp | 2017
+### QuantumComputing.jl | Julia
 
-Attended the Vijyoshi camp in December 2017 against KVPY SA
+An attempt to simulate a Quantum Computer and making a [Julia module](https://github.com/DhruvaSambrani/QuantumComputing.jl) for the same. [The associated paper](https://dhruvasambrani.github.io/papers/qc.pdf) also acts as the documentation
 
-### Mimamsa Center toppers | IISER Pune | 2019
+### Simulation and Modelling | Python | Coursera
 
-My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P.
+Completed the course [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW) with a grade of 95.31%
+
+### Discrete Math for CS (Specialization) | Python | Coursera
+
+Completed the Specialization [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) offered by National Research University Higher School of Economics & University of California San Diego. See [Certification](https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7)\
+Courses Completed:\
+Mathematical Thinking in Computer Science\
+Introduction to Graph Theory\
+Combinatorics and Probability\
+Delivery Problem\
+Number Theory and Cryptography
+
+### Modelling Complex Systems | Julia
+
+As part of a course, I have learnt multiple models often used in the field and explored quite a bit in the following [repository](https://dhruvasambrani.github.io/idc621)
+
+### Minivet Birding App | Android | SQL
+
+I [contributed](http://manjarijain.net/Minivet.html) in making the [Minivet Birding App](https://play.google.com/store/apps/details?id=net.manjarijain.minivet) under [Dr. Manjari Jain](https://manjarijain.net/)\'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed to assist both budding and experienced birders.
+
+### Functional Programming | Scala | Coursera
+
+Completed the course [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H) with a grade of 96.00%
+
+### Github Profile | Multiple Languages
+
+Do visit my GitHub profile to see my other projects in a multitude of languages and fields! Link at the bottom of the page
 
 # Extra-Curricular Activities
 
