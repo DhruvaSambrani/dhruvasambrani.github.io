@@ -11,13 +11,14 @@ geometry: margin=0.8in
 
 ### BS-MS | 2018-2023 | IISER M
 
-CPI: 9.1\
+CPI: 9.0\
 SPI (Sem 1): 9.8\
 SPI (Sem 2): 9.8\
 SPI (Sem 3): 8.8\
 SPI (Sem 4): 9.4\
 SPI (Sem 5): 8.1\
-SPI (Sem 6): 8.9
+SPI (Sem 6): 8.9\
+SPI (Sem 7): 9.0
 
 ### 12th Grade | 2018 | Primus
 
@@ -54,7 +55,7 @@ As part of my First Year Winter Project, I took up the project [Black body radia
 
 ### Ordering Channels | Sarah Brandsen | Winter 2020
 
-An attempt to partial ordering of quantum channels by concepts of Data Driven Inferences. We define an order over the set of positive, trace preserving maps on the existence of another map which when applied would lead to equivalence. Based on Buschemi et. al. \[New J. Phys. 21 113029\] and Dall\'Arno et. al. \[Proc. R. Soc. A.47320160721\]. Left incomplete due to Pandemic and restart of semester.
+An attempt to partial ordering of quantum channels by concepts of Data Driven Inferences. We define an order over the set of positive, trace preserving maps on the existence of another map which when applied would lead to equivalence. Based on Buschemi et. al. \[New J. Phys. 21 113029\] and Dall\'Arno et. al. \[Proc. R. Soc. A.47320160721\].
 
 ### Quantum Resetting of Quantum Systems | Manabendra Nath Bera | Summer 2021
 
@@ -83,11 +84,11 @@ I started making the [Unofficial IISER-M app](https://play.google.com/store/apps
 
 An attempt to simulate a Quantum Computer and making a [Julia module](https://github.com/DhruvaSambrani/QuantumComputing.jl) for the same. [The associated paper](https://dhruvasambrani.github.io/papers/qc.pdf) also acts as the documentation
 
-### Simulation and Modelling | Python | Coursera
+### Coursera Courses | Python, Scala | Coursera
 
 Completed the course [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW) with a grade of 95.31%
 
-### Discrete Math for CS (Specialization) | Python | Coursera
+------------------------------------------------------------------------
 
 Completed the Specialization [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) offered by National Research University Higher School of Economics & University of California San Diego. See [Certification](https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7)\
 Courses Completed:\
@@ -97,6 +98,14 @@ Combinatorics and Probability\
 Delivery Problem\
 Number Theory and Cryptography
 
+------------------------------------------------------------------------
+
+Completed the course [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H) with a grade of 96.00%
+
+### PlutoReport.jl | Julia | Pluto
+
+A Julia package to make better reports and talks in Pluto Notebooks, especially with citation support, presentation mode with controls and timing, and planned integration with bibliography managers.
+
 ### Modelling Complex Systems | Julia
 
 As part of a course, I have learnt multiple models often used in the field and explored quite a bit in the following [repository](https://dhruvasambrani.github.io/idc621)
@@ -105,9 +114,9 @@ As part of a course, I have learnt multiple models often used in the field and e
 
 I [contributed](http://manjarijain.net/Minivet.html) in making the [Minivet Birding App](https://play.google.com/store/apps/details?id=net.manjarijain.minivet) under [Dr. Manjari Jain](https://manjarijain.net/)\'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed to assist both budding and experienced birders.
 
-### Functional Programming | Scala | Coursera
+### Tetra: Turing Hunt Game Engine | Python | PySimpleGUI
 
-Completed the course [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H) with a grade of 96.00%
+A game engine for the annual Turing Virtual Treasure Hunt. Built in Python with PySimpleGUI.
 
 ### Github Profile | Multiple Languages
 
@@ -128,7 +137,7 @@ I also occasionally dabble in photography, though I don\'t consider myself to be
 
 I\'ve started a [new blog](https://dhruvasambrani.github.io/blog), lets see how it goes!
 
-### Convener, Turing Club | IISER-M | 2019-20
+### Convener, Turing Club | IISER-M | 2019-21
 
 Convener of the Turing Club of IISER Mohali in the academic year of 2019-20, and the interim Convener for 2020-21
 

@@ -17,7 +17,7 @@
                         "2018-2023",
                         "IISER M"
                     ],
-                    "content": "CPI: 9.1<br/>SPI (Sem 1): 9.8<br/>SPI (Sem 2): 9.8<br/>SPI (Sem 3): 8.8<br/>SPI (Sem 4): 9.4<br/>SPI (Sem 5): 8.1<br/>SPI (Sem 6): 8.9"
+                    "content": "CPI: 9.0<br/>SPI (Sem 1): 9.8<br/>SPI (Sem 2): 9.8<br/>SPI (Sem 3): 8.8<br/>SPI (Sem 4): 9.4<br/>SPI (Sem 5): 8.1<br/>SPI (Sem 6): 8.9<br/>SPI (Sem 7): 9.0"
                 },
                 {
                     "id": "puc",
@@ -104,7 +104,7 @@
                         "Sarah Brandsen",
                         "Winter 2020"
                     ],
-                    "content": "An attempt to partial ordering of quantum channels by concepts of Data Driven Inferences. We define an order over the set of positive, trace preserving maps on the existence of another map which when applied would lead to equivalence. Based on Buschemi et. al. [New J. Phys. 21 113029] and Dall'Arno et. al. [Proc. R. Soc. A.47320160721]. Left incomplete due to Pandemic and restart of semester."
+                    "content": "An attempt to partial ordering of quantum channels by concepts of Data Driven Inferences. We define an order over the set of positive, trace preserving maps on the existence of another map which when applied would lead to equivalence. Based on Buschemi et. al. [New J. Phys. 21 113029] and Dall'Arno et. al. [Proc. R. Soc. A.47320160721]."
                 },
                 {
                     "id": "bera1",
@@ -136,7 +136,7 @@
                     "content": "Optimized certain parts of the code for the algorithm suggested in the paper. Project stopped due to non-continuation of project from guide."
                 },
                 {
-                    "id": "bera1",
+                    "id": "bera2",
                     "title": "Superpositioned Grover's Algorithm",
                     "subtitle": [
                         "Manabendra Nath Bera",
@@ -144,7 +144,7 @@
                     ],
                     "content": "In a similar vein to Quantum Resetting, this is an ongoing project to speed up the Grover's Search problem by applying a superposition of the Oracle and the Unitary."
                 }
-             ]
+            ]
         },
         {
             "pageid": "code",
@@ -172,22 +172,22 @@
                     "content": "An attempt to simulate a Quantum Computer and making a <a href='https://github.com/DhruvaSambrani/QuantumComputing.jl'>Julia module</a> for the same. <a href='https://dhruvasambrani.github.io/papers/qc.pdf'>The associated paper</a> also acts as the documentation"
                 },
                 {
-                    "id": "sim",
-                    "title": "Simulation and Modelling",
+                    "id": "coursera",
+                    "title": "Coursera Courses",
                     "subtitle": [
-                        "Python",
+                        "Python, Scala",
                         "Coursera"
                     ],
-                    "content": "Completed the course <a href='https://www.coursera.org/learn/modeling-simulation-natural-processes'>Simulation and modeling of natural processes</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW'>Certificate</a> with a grade of 95.31%"
+                    "content": "Completed the course <a href='https://www.coursera.org/learn/modeling-simulation-natural-processes'>Simulation and modeling of natural processes</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW'>Certificate</a> with a grade of 95.31%<hr/>Completed the Specialization <a href='https://www.coursera.org/specializations/discrete-mathematics'>Introduction to Discrete Mathematics for Computer Science</a> offered by National Research University Higher School of Economics & University of California San Diego. See <a href='https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7'>Certification</a><br/>Courses Completed:<br/>Mathematical Thinking in Computer Science<br/>Introduction to Graph Theory<br/>Combinatorics and Probability<br/>Delivery Problem<br/>Number Theory and Cryptography<hr/>Completed the course <a href='https://www.coursera.org/learn/progfun1'>Functional Programming Principles in Scala</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H'>Certificate</a> with a grade of 96.00%"
                 },
                 {
-                    "id": "disc.math",
-                    "title": "Discrete Math for CS (Specialization)",
+                    "id": "plutoreport",
+                    "title": "PlutoReport.jl",
                     "subtitle": [
-                        "Python",
-                        "Coursera"
+                        "Julia",
+                        "Pluto"
                     ],
-                    "content": "Completed the Specialization <a href='https://www.coursera.org/specializations/discrete-mathematics'>Introduction to Discrete Mathematics for Computer Science</a> offered by National Research University Higher School of Economics & University of California San Diego. See <a href='https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7'>Certification</a><br/>Courses Completed:<br/>Mathematical Thinking in Computer Science<br/>Introduction to Graph Theory<br/>Combinatorics and Probability<br/>Delivery Problem<br/>Number Theory and Cryptography"
+                    "content": "A Julia package to make better reports and talks in Pluto Notebooks, especially with citation support, presentation mode with controls and timing, and planned integration with bibliography managers."
                 }
             ],
             "col2": [
@@ -209,13 +209,13 @@
                     "content": "I <a href=\"http://manjarijain.net/Minivet.html\">contributed</a> in making the <a href=\"https://play.google.com/store/apps/details?id=net.manjarijain.minivet\">Minivet Birding App</a> under <a href=\"https://manjarijain.net/\">Dr. Manjari Jain</a>'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed  to assist both budding and experienced birders."
                 },
                 {
-                    "id": "func",
-                    "title": "Functional Programming",
+                    "id": "tetra",
+                    "title": "Tetra: Turing Hunt Game Engine",
                     "subtitle": [
-                        "Scala",
-                        "Coursera"
+                        "Python",
+                        "PySimpleGUI"
                     ],
-                    "content": "Completed the course <a href='https://www.coursera.org/learn/progfun1'>Functional Programming Principles in Scala</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H'>Certificate</a> with a grade of 96.00%"
+                    "content": "A game engine for the annual Turing Virtual Treasure Hunt. Built in Python with PySimpleGUI."
                 },
                 {
                     "id": "ghlink",
@@ -266,7 +266,7 @@
                     "title": "Convener, Turing Club",
                     "subtitle": [
                         "IISER-M",
-                        "2019-20"
+                        "2019-21"
                     ],
                     "content": "Convener of the Turing Club of IISER Mohali in the academic year of 2019-20, and the interim Convener for 2020-21"
                 },
@@ -298,9 +298,9 @@
             "icon": "github.svg"
         },
         {
-            "name": "insta",
-            "url": "https://www.instagram.com/dhruva_sambrani/",
-            "icon": "ig.svg"
+            "name": "mastodon",
+            "url": "https://scholar.social/@dhruvasambrani/",
+            "icon": "masto.svg"
         },
         {
             "name": "rescgate",
