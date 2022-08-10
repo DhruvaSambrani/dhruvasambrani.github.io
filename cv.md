@@ -11,14 +11,11 @@ geometry: margin=0.8in
 
 ### BS-MS | 2018-2023 | IISER M
 
-CPI: 9.0\
-SPI (Sem 1): 9.8\
-SPI (Sem 2): 9.8\
-SPI (Sem 3): 8.8\
-SPI (Sem 4): 9.4\
-SPI (Sem 5): 8.1\
-SPI (Sem 6): 8.9\
-SPI (Sem 7): 9.0
+CPI: 9.01\
+SPI (Year 1): 9.8\
+SPI (Year 2): 9.1\
+SPI (Year 3): 8.5\
+SPI (Year 4): 8.9
 
 ### 12th Grade | 2018 | Primus
 
@@ -46,7 +43,7 @@ Attended the Vijyoshi camp in December 2017 against KVPY SA
 
 My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P.
 
-# Research Experience - Discovering the World
+# Research and Work Experience - Discovering the World
 
 
 ### Relativistic Black Body Radiation | JS Bagla | Winter 2018
@@ -60,6 +57,10 @@ An attempt to partial ordering of quantum channels by concepts of Data Driven In
 ### Quantum Resetting of Quantum Systems | Manabendra Nath Bera | Summer 2021
 
 An ongoing project building on multiple works on Stochastic Resetting of Classical Systems \[arXiv:2107.11686\] and on Quantum Systems \[arXiv:2008.00510.pdf; Phys. Rev. B 98, 104309\], and extending Anubhav Srivastava\'s Master\'s Thesis \[2021, IISER Mohali\], we apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. We see that for numerical examples, the convergence rate is faster and much closer to the reset location than in stochastic resetting. We want to extend this faster convergence to potentially speed up Quantum Walks \[ISBN:978-3-319-97812-3\], speeding up multiple algorithms which depend on Quantum Walks. Further, stochastic resetting can also model certain biological and economical processes which may be better explained by Quantum Resetting.
+
+### Quantum Intern | BQP | Summer 2022
+
+Interned at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis.
 
 ### Introduction to Quantum Mechanics and Computing | Arvind | Summer 2019
 
