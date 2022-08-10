@@ -54,7 +54,7 @@ As part of my First Year Winter Project, I took up the project [Black body radia
 
 An attempt to partial ordering of quantum channels by concepts of Data Driven Inferences. We define an order over the set of positive, trace preserving maps on the existence of another map which when applied would lead to equivalence. Based on Buschemi et. al. \[New J. Phys. 21 113029\] and Dall\'Arno et. al. \[Proc. R. Soc. A.47320160721\].
 
-### Quantum Resetting of Quantum Systems | Manabendra Nath Bera | Summer 2021
+### Quantum Resetting of Quantum Systems | MN Bera | Summer 2021
 
 An ongoing project building on multiple works on Stochastic Resetting of Classical Systems \[arXiv:2107.11686\] and on Quantum Systems \[arXiv:2008.00510.pdf; Phys. Rev. B 98, 104309\], and extending Anubhav Srivastava\'s Master\'s Thesis \[2021, IISER Mohali\], we apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. We see that for numerical examples, the convergence rate is faster and much closer to the reset location than in stochastic resetting. We want to extend this faster convergence to potentially speed up Quantum Walks \[ISBN:978-3-319-97812-3\], speeding up multiple algorithms which depend on Quantum Walks. Further, stochastic resetting can also model certain biological and economical processes which may be better explained by Quantum Resetting.
 
@@ -70,7 +70,7 @@ My First Year Summer Project was an introductory reading to the Mathematical Str
 
 Optimized certain parts of the code for the algorithm suggested in the paper. Project stopped due to non-continuation of project from guide.
 
-### Superpositioned Grover's Algorithm | Manabendra Nath Bera | Summer 2021
+### Superpositioned Grover's Algorithm | MN Bera | Summer 2021
 
 In a similar vein to Quantum Resetting, this is an ongoing project to speed up the Grover\'s Search problem by applying a superposition of the Oracle and the Unitary.
 
