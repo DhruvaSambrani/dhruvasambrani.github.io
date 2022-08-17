@@ -43,7 +43,7 @@
         },
         {
             "pageid": "acad",
-            "pagename": "Academic Achievements",
+            "pagename": "Academic Endeavours",
             "colorscheme": [
                 "dark",
                 "bg-dark-red"
@@ -77,6 +77,15 @@
                         "2019"
                     ],
                     "content": "My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P."
+                },
+                {
+                    "id": "qgss22",
+                    "title": "Qiskit Global Summer School",
+                    "subtitle": [
+                        "Qiskit",
+                        "2022"
+                    ],
+                    "content": "Participated and completed the QGSS-22. <a href=\"./papers/qgss22-cert.pdf\">Certificate.</a>"
                 }
             ]
         },

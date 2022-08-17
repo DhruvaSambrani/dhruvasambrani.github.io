@@ -28,7 +28,7 @@ Chemistry: 95
 Science: 94\
 Math: 95
 
-# Academic Achievements
+# Academic Endeavours
 
 
 ### KVPY | 600 | 1118 | 24
@@ -42,6 +42,10 @@ Attended the Vijyoshi camp in December 2017 against KVPY SA
 ### Mimamsa Center toppers | IISER Pune | 2019
 
 My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P.
+
+### Qiskit Global Summer School | Qiskit | 2022
+
+Participated and completed the QGSS-22. [Certificate.](./papers/qgss22-cert.pdf)
 
 # Research and Work Experience - Discovering the World
 
