@@ -1,9 +1,19 @@
 import json
-import sys
 import pypandoc
 
 section_template = "# {title}\n\n{subsections}"
 subsection_template = "### {title}\n\n{content}"
+
+def alternateMerge(arr1, arr2) :
+    i = 0; j = 0;
+    arr3 = []
+    # Traverse both array
+    while (i < len(arr1) and j < len(arr2)) :
+        arr3.append(arr1[i])
+        i += 1         
+        arr3.append(arr2[j])
+        j += 1
+    return arr3 + arr1[i:] + arr2[j:]
 
 
 def absolutify(mdtext, baseurl):
@@ -31,7 +41,7 @@ def makeSubsection(data):
 
 def makeSection(data):
     subsections = "\n".join([makeSubsection(i)
-                             for i in data["col1"]+data["col2"]])
+                             for i in reversed(alternateMerge(data["col1"], data["col2"]))])
     sectiontext = section_template.format(
         title=singleline(data["pagename"]), subsections=subsections)
     return sectiontext
@@ -62,3 +72,4 @@ with open("data.json", "r", encoding="utf8") as f:
         cv.write(makeCV(data))
 
 pypandoc.convert_file("cv.md", "pdf", outputfile="cv.pdf")
+pypandoc.convert_file("cv.md", "html", outputfile="cv.html", extra_args=["-s", "--toc"])

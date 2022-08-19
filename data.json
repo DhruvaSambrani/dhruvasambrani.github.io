@@ -18,7 +18,9 @@
                         "IISER M"
                     ],
                     "content": "CPI: 9.01<br/>SPI (Year 1): 9.8<br/>SPI (Year 2): 9.1<br/>SPI (Year 3): 8.5<br/>SPI (Year 4): 8.9"
-                },
+                }
+            ],
+            "col2": [
                 {
                     "id": "puc",
                     "title": "12th Grade",
@@ -27,17 +29,6 @@
                         "Primus"
                     ],
                     "content": "Physics: 99<br/>Math: 94<br/>Chemistry: 95"
-                }
-            ],
-            "col2": [
-                {
-                    "id": "tenth",
-                    "title": "10th Grade",
-                    "subtitle": [
-                        "2016",
-                        "Prakriya"
-                    ],
-                    "content": "Science: 94<br/>Math: 95"
                 }
             ]
         },
@@ -60,16 +51,6 @@
                     "content": "Qualified KVPY SA, SX, SB with a rank of 600, 1118 and 24 respectively and hold a KVPY Fellowship"
                 },
                 {
-                    "id": "vijyoshi",
-                    "title": "Vijyoshi Camp",
-                    "subtitle": [
-                        "2017"
-                    ],
-                    "content": "Attended the Vijyoshi camp in December 2017 against KVPY SA"
-                }
-            ],
-            "col2": [
-                {
                     "id": "mimamsa",
                     "title": "Mimamsa Center toppers",
                     "subtitle": [
@@ -77,6 +58,16 @@
                         "2019"
                     ],
                     "content": "My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P."
+                }
+            ],
+            "col2": [
+                {
+                    "id": "vijyoshi",
+                    "title": "Vijyoshi Camp",
+                    "subtitle": [
+                        "2017"
+                    ],
+                    "content": "Attended the Vijyoshi camp in December 2017 against KVPY SA"
                 },
                 {
                     "id": "qgss22",
@@ -85,7 +76,7 @@
                         "Qiskit",
                         "2022"
                     ],
-                    "content": "Participated and completed the QGSS-22. <a href=\"./papers/qgss22-cert.pdf\">Certificate.</a>"
+                    "content": "Participated and completed the QGSS-22.<br> <a href=\"./papers/qgss22-cert.pdf\">QGSS Certificate.</a> <a href=\"https://www.credly.com/badges/43838f09-4823-4aaf-9441-b37d66854767/public_url\">Credly Certificate</a>"
                 }
             ]
         },
@@ -287,14 +278,6 @@
                         "2019-21"
                     ],
                     "content": "Convener of the Turing Club of IISER Mohali in the academic year of 2019-20, and the interim Convener for 2020-21"
-                },
-                {
-                    "id": "pr",
-                    "title": "Coding and Programming",
-                    "subtitle": [
-                        ""
-                    ],
-                    "content": "I am an avid programmer and know multiple languages. Visit the <a href='#code'>Programming Section</a> of this website"
                 }
             ]
         }
