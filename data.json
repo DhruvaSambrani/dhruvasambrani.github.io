@@ -304,6 +304,11 @@
             "icon": "masto.svg"
         },
         {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/dhruva-sambrani-38960824b/",
+            "icon": "linkedin.png"
+        },
+        {
             "name": "rescgate",
             "url": "https://www.researchgate.net/profile/Dhruva_Sambrani",
             "icon": "rescgate.ico"
