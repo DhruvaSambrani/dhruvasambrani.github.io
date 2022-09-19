@@ -2,6 +2,6 @@ title: My Webpage
 name: Dhruva Sambrani
 description: Dhruva Sambrani's Webpage
 theme: jekyll-theme-slate
-exclude: cv.md
+exclude: [cv.md]
 github:
   is_project_page: false
