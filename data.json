@@ -149,7 +149,7 @@
                     "title": "Superpositioned Grover's Algorithm",
                     "subtitle": [
                         "MN Bera",
-                        "Summer 2021"
+                        "Summer 2022"
                     ],
                     "content": "In a similar vein to Quantum Resetting, this is an ongoing project to speed up the Grover's Search problem by applying a superposition of the Oracle and the Unitary."
                 }
