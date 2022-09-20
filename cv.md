@@ -50,7 +50,7 @@ Qualified KVPY SA, SX, SB with a rank of 600, 1118 and 24 respectively and hold 
 
 Interned at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis.
 
-### Superpositioned Grover's Algorithm | MN Bera | Summer 2021
+### Superpositioned Grover's Algorithm | MN Bera | Summer 2022
 
 In a similar vein to Quantum Resetting, this is an ongoing project to speed up the Grover\'s Search problem by applying a superposition of the Oracle and the Unitary.
 
