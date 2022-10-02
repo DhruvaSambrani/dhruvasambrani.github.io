@@ -50,7 +50,7 @@ Participated and completed the QGSS-22.\
 
 ### QICF-20 | YITP-Kyoto Uni | 2020
 
-Weeklong workshop with talks on QInfo, QComputation and QCommunication.
+Weeklong workshop with talks on Quantum Information, Computation and Communication.
 
 ### Vijyoshi Camp | 2017
 
