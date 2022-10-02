@@ -15,9 +15,18 @@
                     "title": "BS-MS",
                     "subtitle": [
                         "2018-2023",
-                        "IISER M"
+                        "IISER Mohali"
                     ],
                     "content": "CPI: 9.01<br/>SPI (Year 1): 9.8<br/>SPI (Year 2): 9.1<br/>SPI (Year 3): 8.5<br/>SPI (Year 4): 8.9"
+                },
+                {
+                    "id": "courses",
+                    "title": "Relavant Courses",
+                    "subtitle": [
+                        "2018-2023",
+                        "IISER Mohali"
+                    ],
+                    "content": "- Quantum Computing and Quantum Information<br>- Random Processes<br>- Non Linear Dynamics<br>- Modelling Complex Systems<br>- Network Science<br>- Machine Learning and Data Science"
                 }
             ],
             "col2": [
@@ -34,7 +43,7 @@
         },
         {
             "pageid": "acad",
-            "pagename": "Academic Endeavours",
+            "pagename": "Academic Endeavours and Conferences",
             "colorscheme": [
                 "dark",
                 "bg-dark-red"
@@ -51,13 +60,22 @@
                     "content": "Qualified KVPY SA, SX, SB with a rank of 600, 1118 and 24 respectively and hold a KVPY Fellowship"
                 },
                 {
-                    "id": "mimamsa",
-                    "title": "Mimamsa Center toppers",
+                    "id": "kyoto20",
+                    "title": "QICF-20",
                     "subtitle": [
-                        "IISER Pune",
-                        "2019"
+                        "YITP-Kyoto Uni",
+                        "2020"
                     ],
-                    "content": "My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P."
+                    "content": "Weeklong workshop with talks on QInfo, QComputation and QCommunication."
+                },
+                {
+                    "id": "quant22",
+                    "title": "QUANT22",
+                    "subtitle": [
+                        "MPI-PKS Dresden",
+                        "2022"
+                    ],
+                    "content": "Four-day school for master students providing an introduction to the fast-moving field of quantum matter, focusing on many-body systems ranging from exotic states of matter to quantum computers"
                 }
             ],
             "col2": [
@@ -77,6 +95,15 @@
                         "2022"
                     ],
                     "content": "Participated and completed the QGSS-22.<br> <a href=\"./papers/qgss22-cert.pdf\">QGSS Certificate.</a> <a href=\"https://www.credly.com/badges/43838f09-4823-4aaf-9441-b37d66854767/public_url\">Credly Certificate</a>"
+                },
+                {
+                    "id": "kyoto22",
+                    "title": "QICF-22",
+                    "subtitle": [
+                        "YITP-Kyoto Uni",
+                        "2022"
+                    ],
+                    "content": "Weeklong workshop with talks on QInfo, QComputation and QCommunication. (Future)"
                 }
             ]
         },
@@ -176,7 +203,8 @@
                     "id": "qcjl",
                     "title": "QuantumComputing.jl",
                     "subtitle": [
-                        "Julia"
+                        "Julia",
+                        "Package"
                     ],
                     "content": "An attempt to simulate a Quantum Computer and making a <a href='https://github.com/DhruvaSambrani/QuantumComputing.jl'>Julia module</a> for the same. <a href='https://dhruvasambrani.github.io/papers/qc.pdf'>The associated paper</a> also acts as the documentation"
                 },
@@ -192,9 +220,9 @@
                 {
                     "id": "plutoreport",
                     "title": "PlutoReport.jl",
-                    "subtitle": [
-                        "Julia",
-                        "Pluto"
+                    "subtitle": [ 
+                        "Pluto",
+                        "Package"
                     ],
                     "content": "A Julia package to make better reports and talks in Pluto Notebooks, especially with citation support, presentation mode with controls and timing, and planned integration with bibliography managers."
                 }
@@ -204,7 +232,8 @@
                     "id": "mcs",
                     "title": "Modelling Complex Systems",
                     "subtitle": [
-                        "Julia"
+                        "Julia",
+                        "2021"
                     ],
                     "content": "As part of a course, I have learnt multiple models often used in the field and explored quite a bit in the following <a href=\"https://dhruvasambrani.github.io/idc621\">repository</a>"
                 },
@@ -230,7 +259,8 @@
                     "id": "ghlink",
                     "title": "Github Profile",
                     "subtitle": [
-                        "Multiple Languages"
+                        "Multiple Languages",
+                        "Others"
                     ],
                     "content": "Do visit my GitHub profile to see my other projects in a multitude of languages and fields! Link at the bottom of the page"
                 }
@@ -248,7 +278,8 @@
                     "id": "kirana",
                     "title": "Teaching Underprivileged Children",
                     "subtitle": [
-                        "2016"
+                        "2016",
+                        "Prakriya"
                     ],
                     "content": "As a way to give back to the community, I taught underprivileged children English and Mathematics for two weeks in my school in 2016. The group involved two children, both of whom had learning disorders."
                 },

@@ -7,21 +7,13 @@ mainhtml = open("./templates/index_template.html", "r", encoding="utf8").read()
 conthtml = open("./templates/contact.html", "r", encoding="utf8").read()
 colors = {"light": ("black", ""), "dark": ("near-white", "home-invert")}
 
-def maketolength(text, length):
-    padd = length-len(text)
-    l1 = (padd) // 2
-    return (" " * l1) + text + (" " * (padd - l1))
-
-
-def makesubtitle(subtitle):
-    maxlength = max(map(lambda l: len(l), subtitle))
-    return " | ".join(map(lambda l: maketolength(l, maxlength), subtitle))
-
 
 def makeCard(colelement):
     tid, title, subtitle, content = colelement["id"],  colelement[
         "title"], colelement['subtitle'], colelement["content"]
-    return cardhtml.format(id=tid, title=title, subtitle=makesubtitle(subtitle), content=content)
+    for _ in range(2-len(subtitle)):
+        subtitle.append("")
+    return cardhtml.format(id=tid, title=title, subtitle_1=subtitle[0], subtitle_2=subtitle[1], content=content)
 
 
 def makepage(pageid, pagename, colorscheme, col1, col2):

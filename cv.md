@@ -9,13 +9,22 @@ geometry: margin=0.8in
 # Educational Qualifications
 
 
+### Relavant Courses | 2018-2023 | IISER Mohali
+
+\- Quantum Computing and Quantum Information\
+- Random Processes\
+- Non Linear Dynamics\
+- Modelling Complex Systems\
+- Network Science\
+- Machine Learning and Data Science
+
 ### 12th Grade | 2018 | Primus
 
 Physics: 99\
 Math: 94\
 Chemistry: 95
 
-### BS-MS | 2018-2023 | IISER M
+### BS-MS | 2018-2023 | IISER Mohali
 
 CPI: 9.01\
 SPI (Year 1): 9.8\
@@ -23,17 +32,25 @@ SPI (Year 2): 9.1\
 SPI (Year 3): 8.5\
 SPI (Year 4): 8.9
 
-# Academic Endeavours
+# Academic Endeavours and Conferences
 
+
+### QICF-22 | YITP-Kyoto Uni | 2022
+
+Weeklong workshop with talks on QInfo, QComputation and QCommunication. (Future)
+
+### QUANT22 | MPI-PKS Dresden | 2022
+
+Four-day school for master students providing an introduction to the fast-moving field of quantum matter, focusing on many-body systems ranging from exotic states of matter to quantum computers
 
 ### Qiskit Global Summer School | Qiskit | 2022
 
 Participated and completed the QGSS-22.\
 [QGSS Certificate.](./papers/qgss22-cert.pdf) [Credly Certificate](https://www.credly.com/badges/43838f09-4823-4aaf-9441-b37d66854767/public_url)
 
-### Mimamsa Center toppers | IISER Pune | 2019
+### QICF-20 | YITP-Kyoto Uni | 2020
 
-My team was the centre topper in Mimamsa 2019, a Science quiz conducted by IISER-P.
+Weeklong workshop with talks on QInfo, QComputation and QCommunication.
 
 ### Vijyoshi Camp | 2017
 
@@ -77,11 +94,11 @@ As part of my First Year Winter Project, I took up the project [Black body radia
 # Programming - Reinventing The World
 
 
-### Github Profile | Multiple Languages
+### Github Profile | Multiple Languages | Others
 
 Do visit my GitHub profile to see my other projects in a multitude of languages and fields! Link at the bottom of the page
 
-### PlutoReport.jl | Julia | Pluto
+### PlutoReport.jl | Pluto | Package
 
 A Julia package to make better reports and talks in Pluto Notebooks, especially with citation support, presentation mode with controls and timing, and planned integration with bibliography managers.
 
@@ -111,11 +128,11 @@ Completed the course [Functional Programming Principles in Scala](https://www.co
 
 I [contributed](http://manjarijain.net/Minivet.html) in making the [Minivet Birding App](https://play.google.com/store/apps/details?id=net.manjarijain.minivet) under [Dr. Manjari Jain](https://manjarijain.net/)\'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed to assist both budding and experienced birders.
 
-### QuantumComputing.jl | Julia
+### QuantumComputing.jl | Julia | Package
 
 An attempt to simulate a Quantum Computer and making a [Julia module](https://github.com/DhruvaSambrani/QuantumComputing.jl) for the same. [The associated paper](https://dhruvasambrani.github.io/papers/qc.pdf) also acts as the documentation
 
-### Modelling Complex Systems | Julia
+### Modelling Complex Systems | Julia | 2021
 
 As part of a course, I have learnt multiple models often used in the field and explored quite a bit in the following [repository](https://dhruvasambrani.github.io/idc621)
 
@@ -138,6 +155,6 @@ I also occasionally dabble in photography, though I don\'t consider myself to be
 
 Convener of the Turing Club of IISER Mohali in the academic year of 2019-20, and the interim Convener for 2020-21
 
-### Teaching Underprivileged Children | 2016
+### Teaching Underprivileged Children | 2016 | Prakriya
 
 As a way to give back to the community, I taught underprivileged children English and Mathematics for two weeks in my school in 2016. The group involved two children, both of whom had learning disorders.
