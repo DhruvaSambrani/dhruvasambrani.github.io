@@ -9,21 +9,6 @@ geometry: margin=0.8in
 # Educational Qualifications
 
 
-### Relavant Courses | 2018-2023 | IISER Mohali
-
-\- Quantum Computing and Quantum Information\
-- Random Processes\
-- Non Linear Dynamics\
-- Modelling Complex Systems\
-- Network Science\
-- Machine Learning and Data Science
-
-### 12th Grade | 2018 | Primus
-
-Physics: 99\
-Math: 94\
-Chemistry: 95
-
 ### BS-MS | 2018-2023 | IISER Mohali
 
 CPI: 9.01\
@@ -32,12 +17,27 @@ SPI (Year 2): 9.1\
 SPI (Year 3): 8.5\
 SPI (Year 4): 8.9
 
+### 12th Grade | 2018 | Primus
+
+Physics: 99\
+Math: 94\
+Chemistry: 95
+
+### Relavant Elective Courses | 2018-2023 | IISER Mohali
+
+\- Quantum Computing and Quantum Information\
+- Random Processes\
+- Non Linear Dynamics\
+- Modelling Complex Systems\
+- Network Science\
+- Machine Learning and Data Science
+
 # Academic Endeavours and Conferences
 
 
 ### QICF-22 | YITP-Kyoto Uni | 2022
 
-Weeklong workshop with talks on QInfo, QComputation and QCommunication. (Future)
+Weeklong workshop with talks on Quantum Information, Computation and Communication. (Future)
 
 ### QUANT22 | MPI-PKS Dresden | 2022
 
@@ -94,67 +94,45 @@ As part of my First Year Winter Project, I took up the project [Black body radia
 # Programming - Reinventing The World
 
 
-### Github Profile | Multiple Languages | Others
+### IISER-M App | Android | Firebase
 
-Do visit my GitHub profile to see my other projects in a multitude of languages and fields! Link at the bottom of the page
-
-### PlutoReport.jl | Pluto | Package
-
-A Julia package to make better reports and talks in Pluto Notebooks, especially with citation support, presentation mode with controls and timing, and planned integration with bibliography managers.
-
-### Tetra: Turing Hunt Game Engine | Python | PySimpleGUI
-
-A game engine for the annual Turing Virtual Treasure Hunt. Built in Python with PySimpleGUI.
-
-### Coursera Courses | Python, Scala | Coursera
-
-Completed the course [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW) with a grade of 95.31%
-
-------------------------------------------------------------------------
-
-Completed the Specialization [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) offered by National Research University Higher School of Economics & University of California San Diego. See [Certification](https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7)\
-Courses Completed:\
-Mathematical Thinking in Computer Science\
-Introduction to Graph Theory\
-Combinatorics and Probability\
-Delivery Problem\
-Number Theory and Cryptography
-
-------------------------------------------------------------------------
-
-Completed the course [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H) with a grade of 96.00%
-
-### Minivet Birding App | Android | SQL
-
-I [contributed](http://manjarijain.net/Minivet.html) in making the [Minivet Birding App](https://play.google.com/store/apps/details?id=net.manjarijain.minivet) under [Dr. Manjari Jain](https://manjarijain.net/)\'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed to assist both budding and experienced birders.
-
-### QuantumComputing.jl | Julia | Package
-
-An attempt to simulate a Quantum Computer and making a [Julia module](https://github.com/DhruvaSambrani/QuantumComputing.jl) for the same. [The associated paper](https://dhruvasambrani.github.io/papers/qc.pdf) also acts as the documentation
+I started making the [Unofficial IISER-M app](https://play.google.com/store/apps/details?id=com.dhruva.iiser) for Android in the Summer of 2019. With 200+ downloads, it remains in constant development with new features being added every 6 Months
 
 ### Modelling Complex Systems | Julia | 2021
 
 As part of a course, I have learnt multiple models often used in the field and explored quite a bit in the following [repository](https://dhruvasambrani.github.io/idc621)
 
-### IISER-M App | Android | Firebase
+### QuantumComputing.jl | Julia | Package
 
-I started making the [Unofficial IISER-M app](https://play.google.com/store/apps/details?id=com.dhruva.iiser) for Android in the Summer of 2019. With 200+ downloads, it remains in constant development with new features being added every 6 Months
+An attempt to simulate a Quantum Computer and making a [Julia module](https://github.com/DhruvaSambrani/QuantumComputing.jl) for the same. [The associated paper](https://dhruvasambrani.github.io/papers/qc.pdf) also acts as the documentation
 
-# Extra-Curricular Activities
+### Minivet Birding App | Android | SQL
 
+I [contributed](http://manjarijain.net/Minivet.html) in making the [Minivet Birding App](https://play.google.com/store/apps/details?id=net.manjarijain.minivet) under [Dr. Manjari Jain](https://manjarijain.net/)\'s Behavior and Ecology Lab, IISER-M. Minivet is an app developed to assist both budding and experienced birders.
 
-### Blog
+### Coursera Courses | Python, Scala | Coursera
 
-I\'ve started a [new blog](https://dhruvasambrani.github.io/blog), lets see how it goes!
+Completed the course [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW) with a grade of 95.31%\
+\
+Completed the Specialization [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) offered by National Research University Higher School of Economics & University of California San Diego. See [Certification](https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7)\
+Courses Completed:\
+- Mathematical Thinking in Computer Science\
+- Introduction to Graph Theory\
+- Combinatorics and Probability\
+- Delivery Problem\
+- Number Theory and Cryptography\
+\
+Completed the course [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) offered by Geneva University. Received [Certificate](https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H) with a grade of 96.00%
 
-### Photography
+### Tetra: Turing Hunt Game Engine | Python | PySimpleGUI
 
-I also occasionally dabble in photography, though I don\'t consider myself to be very good at it . Visit my [Photography Page](https://dhruvasambrani.github.io/photography/index) for a peek at some of my photos!
+A game engine for the annual Turing Virtual Treasure Hunt. Built in Python with PySimpleGUI.
 
-### Convener, Turing Club | IISER-M | 2019-21
+### PlutoReport.jl | Pluto | Package
 
-Convener of the Turing Club of IISER Mohali in the academic year of 2019-20, and the interim Convener for 2020-21
+A Julia package to make better reports and talks in Pluto Notebooks, especially with citation support, presentation mode with controls and timing, and planned integration with bibliography managers.
 
-### Teaching Underprivileged Children | 2016 | Prakriya
+### Github Profile | Multiple Languages | Others
 
-As a way to give back to the community, I taught underprivileged children English and Mathematics for two weeks in my school in 2016. The group involved two children, both of whom had learning disorders.
+Do visit my GitHub profile to see my other projects in a multitude of languages and fields! Link at the bottom of the page
+

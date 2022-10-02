@@ -40,8 +40,13 @@ def makeSubsection(data):
 
 
 def makeSection(data):
+    if data.get("ignorecv", False):
+        return ""
+    merged = alternateMerge(data["col1"], data["col2"])
+    if data.get("reversecv", True):
+        merged = reversed(merged)
     subsections = "\n".join([makeSubsection(i)
-                             for i in reversed(alternateMerge(data["col1"], data["col2"]))])
+                             for i in merged])
     sectiontext = section_template.format(
         title=singleline(data["pagename"]), subsections=subsections)
     return sectiontext

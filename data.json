@@ -5,6 +5,7 @@
         {
             "pageid": "edu",
             "pagename": "Educational Qualifications",
+            "reversecv": false,
             "colorscheme": [
                 "dark",
                 "bg-dark-blue"
@@ -21,7 +22,7 @@
                 },
                 {
                     "id": "courses",
-                    "title": "Relavant Courses",
+                    "title": "Relavant Elective Courses",
                     "subtitle": [
                         "2018-2023",
                         "IISER Mohali"
@@ -103,7 +104,7 @@
                         "YITP-Kyoto Uni",
                         "2022"
                     ],
-                    "content": "Weeklong workshop with talks on QInfo, QComputation and QCommunication. (Future)"
+                    "content": "Weeklong workshop with talks on Quantum Information, Computation and Communication. (Future)"
                 }
             ]
         },
@@ -185,6 +186,7 @@
         {
             "pageid": "code",
             "pagename": "Programming<br/>Reinventing The World",
+            "reversecv": false,
             "colorscheme": [
                 "dark",
                 "bg-navy"
@@ -215,7 +217,7 @@
                         "Python, Scala",
                         "Coursera"
                     ],
-                    "content": "Completed the course <a href='https://www.coursera.org/learn/modeling-simulation-natural-processes'>Simulation and modeling of natural processes</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW'>Certificate</a> with a grade of 95.31%<hr/>Completed the Specialization <a href='https://www.coursera.org/specializations/discrete-mathematics'>Introduction to Discrete Mathematics for Computer Science</a> offered by National Research University Higher School of Economics & University of California San Diego. See <a href='https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7'>Certification</a><br/>Courses Completed:<br/>Mathematical Thinking in Computer Science<br/>Introduction to Graph Theory<br/>Combinatorics and Probability<br/>Delivery Problem<br/>Number Theory and Cryptography<hr/>Completed the course <a href='https://www.coursera.org/learn/progfun1'>Functional Programming Principles in Scala</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H'>Certificate</a> with a grade of 96.00%"
+                    "content": "Completed the course <a href='https://www.coursera.org/learn/modeling-simulation-natural-processes'>Simulation and modeling of natural processes</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW'>Certificate</a> with a grade of 95.31%<br><br>Completed the Specialization <a href='https://www.coursera.org/specializations/discrete-mathematics'>Introduction to Discrete Mathematics for Computer Science</a> offered by National Research University Higher School of Economics & University of California San Diego. See <a href='https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7'>Certification</a><br/>Courses Completed:<br/>- Mathematical Thinking in Computer Science<br/>- Introduction to Graph Theory<br/>- Combinatorics and Probability<br/>- Delivery Problem<br/>- Number Theory and Cryptography<br><br>Completed the course <a href='https://www.coursera.org/learn/progfun1'>Functional Programming Principles in Scala</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H'>Certificate</a> with a grade of 96.00%"
                 },
                 {
                     "id": "plutoreport",
@@ -269,6 +271,7 @@
         {
             "pageid": "excc",
             "pagename": "Extra-Curricular Activities",
+            "ignorecv": true,
             "colorscheme": [
                 "light",
                 "bg-gold"
@@ -290,14 +293,6 @@
                         ""
                     ],
                     "content": "I also occasionally dabble in photography, though I don't consider myself to be very good at it 😅. Visit my <a href='/photography/index'>Photography Page</a> for a peek at some of my photos!"
-                },
-                {
-                    "id": "blog",
-                    "title": "Blog",
-                    "subtitle": [
-                        ""
-                    ],
-                    "content": "I've started a <a href=\"/blog\">new blog</a>, lets see how it goes!"
                 }
             ],
             "col2": [
@@ -309,6 +304,14 @@
                         "2019-21"
                     ],
                     "content": "Convener of the Turing Club of IISER Mohali in the academic year of 2019-20, and the interim Convener for 2020-21"
+                },
+                {
+                    "id": "blog",
+                    "title": "Blog",
+                    "subtitle": [
+                        ""
+                    ],
+                    "content": "I've started a <a href=\"/blog\">new blog</a>, lets see how it goes!"
                 }
             ]
         }
