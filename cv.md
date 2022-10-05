@@ -36,13 +36,14 @@ header-includes: |
 
 CPI: 9.01 (4 Years)
 
-### Relavant Elective Courses | 2018-2023 | IISER Mohali
+### Relevant Elective Courses | 2018-2023 | IISER Mohali
 
 \- Quantum Computing and Quantum Information\
 - Random Processes\
 - Non Linear Dynamics\
 - Modelling Complex Systems\
 - Network Science\
+- Theory of Computation\
 - Machine Learning and Data Science
 
 # Academic Endeavours and Conferences

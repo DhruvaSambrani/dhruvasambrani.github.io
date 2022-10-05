@@ -24,12 +24,12 @@
             "col2": [
                 {
                     "id": "courses",
-                    "title": "Relavant Elective Courses",
+                    "title": "Relevant Elective Courses",
                     "subtitle": [
                         "2018-2023",
                         "IISER Mohali"
                     ],
-                    "content": "- Quantum Computing and Quantum Information<br>- Random Processes<br>- Non Linear Dynamics<br>- Modelling Complex Systems<br>- Network Science<br>- Machine Learning and Data Science"
+                    "content": "- Quantum Computing and Quantum Information<br>- Random Processes<br>- Non Linear Dynamics<br>- Modelling Complex Systems<br>- Network Science<br>- Theory of Computation<br>- Machine Learning and Data Science"
                 }
             ]
         },
