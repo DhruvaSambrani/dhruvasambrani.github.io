@@ -34,6 +34,8 @@ def singleline(text):
 
 
 def makeSubsection(data):
+    if data.get("ignorecv", False):
+        return ""
     title = " | ".join([data["title"]] + [i for i in data["subtitle"] if i])
     content = mdfy(data["content"])
     return subsection_template.format(title=title, content=content)
@@ -53,21 +55,13 @@ def makeSection(data):
 
 
 def makeCV(data):
-    title = """---
-title: Curriculum Vitae
-author: Dhruva Sambrani
-date: \\today
-colorlinks: true
-block-headings: true
-geometry: margin=0.8in
----
-"""
+    title = open("templates/header.yml").read()
     sections = "\n".join([makeSection(i) for i in data["pages"]])
-    return title + absolutify(sections, data["baseurl"])
+    return "---\n" + title + "---\n\n" + absolutify(sections, data["baseurl"])
 
 
 try:
-    pypandoc.get_pandoc_version()
+    print(pypandoc.get_pandoc_version())
 except OSError as e:
     pypandoc.pandoc_download.download_pandoc()
 
@@ -76,5 +70,5 @@ with open("data.json", "r", encoding="utf8") as f:
     with open("cv.md", "w", encoding="utf8") as cv:
         cv.write(makeCV(data))
 
-pypandoc.convert_file("cv.md", "pdf", outputfile="cv.pdf")
-pypandoc.convert_file("cv.md", "html", outputfile="cv.html", extra_args=["-s", "--toc"])
+pypandoc.convert_file("cv.md", "pdf", outputfile="cv.pdf", extra_args=["--template=./templates/latex.tex"])
+#pypandoc.convert_file("cv.md", "html", outputfile="cv.html", extra_args=["-s", "--toc"])

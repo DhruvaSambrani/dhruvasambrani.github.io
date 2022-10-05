@@ -18,8 +18,10 @@
                         "2018-2023",
                         "IISER Mohali"
                     ],
-                    "content": "CPI: 9.01<br/>SPI (Year 1): 9.8<br/>SPI (Year 2): 9.1<br/>SPI (Year 3): 8.5<br/>SPI (Year 4): 8.9"
-                },
+                    "content": "CPI: 9.01 (4 Years)"
+                }
+            ],
+            "col2": [
                 {
                     "id": "courses",
                     "title": "Relavant Elective Courses",
@@ -29,17 +31,6 @@
                     ],
                     "content": "- Quantum Computing and Quantum Information<br>- Random Processes<br>- Non Linear Dynamics<br>- Modelling Complex Systems<br>- Network Science<br>- Machine Learning and Data Science"
                 }
-            ],
-            "col2": [
-                {
-                    "id": "puc",
-                    "title": "12th Grade",
-                    "subtitle": [
-                        "2018",
-                        "Primus"
-                    ],
-                    "content": "Physics: 99<br/>Math: 94<br/>Chemistry: 95"
-                }
             ]
         },
         {
@@ -47,24 +38,23 @@
             "pagename": "Academic Endeavours and Conferences",
             "colorscheme": [
                 "dark",
-                "bg-dark-red"
+                "bg-purple"
             ],
             "col1": [
                 {
                     "id": "kvpy",
                     "title": "KVPY",
                     "subtitle": [
-                        "600",
-                        "1118",
-                        "24"
+                        "IISc",
+                        "2016-18"
                     ],
-                    "content": "Qualified KVPY SA, SX, SB with a rank of 600, 1118 and 24 respectively and hold a KVPY Fellowship"
+                    "content": "Qualified KVPY SA(2016), SX(2017), SB(2018) with a rank of 600, 1118 and 24 respectively and hold a KVPY Fellowship."
                 },
                 {
                     "id": "kyoto20",
                     "title": "QICF-20",
                     "subtitle": [
-                        "YITP-Kyoto Uni",
+                        "YITP-Kyoto",
                         "2020"
                     ],
                     "content": "Weeklong workshop with talks on Quantum Information, Computation and Communication."
@@ -74,7 +64,7 @@
                     "title": "QUANT22",
                     "subtitle": [
                         "MPI-PKS Dresden",
-                        "2022"
+                        "2022-(Ongoing)"
                     ],
                     "content": "Four-day school for master students providing an introduction to the fast-moving field of quantum matter, focusing on many-body systems ranging from exotic states of matter to quantum computers"
                 }
@@ -95,14 +85,14 @@
                         "Qiskit",
                         "2022"
                     ],
-                    "content": "Participated and completed the QGSS-22.<br> <a href=\"./papers/qgss22-cert.pdf\">QGSS Certificate.</a> <a href=\"https://www.credly.com/badges/43838f09-4823-4aaf-9441-b37d66854767/public_url\">Credly Certificate</a>"
+                    "content": "Participated and completed the QGSS-22 which focussed on Quantum and Classical algorithms to simulate chemical systems.<br> <a href=\"/papers/qgss22-cert.pdf\">QGSS Certificate.</a> <a href=\"https://www.credly.com/badges/43838f09-4823-4aaf-9441-b37d66854767/public_url\">Credly Certificate</a>"
                 },
                 {
                     "id": "kyoto22",
                     "title": "QICF-22",
                     "subtitle": [
-                        "YITP-Kyoto Uni",
-                        "2022"
+                        "YITP-Kyoto",
+                        "2022-(Future)"
                     ],
                     "content": "Weeklong workshop with talks on Quantum Information, Computation and Communication. (Future)"
                 }
@@ -123,7 +113,7 @@
                         "JS Bagla",
                         "Winter 2018"
                     ],
-                    "content": "As part of my First Year Winter Project, I took up the project <a href='/papers/bbr_vel_trans.pdf'>Black body radiation in special relativistic frames</a> under <a href='http://14.139.227.202/Faculty/jasjeet/index.html'>JS Bagla, IISER Mohali</a>, where I looked at how Black Body Radiation transforms in a frame that is moving uniformly with respect to the source. We see that the radiation is no more uniform, leading to a force on the particle. The <a href='/papers/bbr_f_on_particle.pdf'>quantitative analysis</a> of this force is done using numerical methods in Julia."
+                    "content": "I studied <a href='/papers/bbr_vel_trans.pdf'>Black body radiation in special relativistic frames</a> under <a href='http://14.139.227.202/Faculty/jasjeet/index.html'>JS Bagla, IISER Mohali</a>, where I looked at how Black Body Radiation transforms in a frame that is moving uniformly with respect to the source. The <a href='/papers/bbr_f_on_particle.pdf'>quantitative analysis</a> of the force due to non uniform radiation is done using numerical methods in Julia."
                 },
                 {
                     "id": "sarah1",
@@ -132,25 +122,25 @@
                         "Sarah Brandsen",
                         "Winter 2020"
                     ],
-                    "content": "An attempt to partial ordering of quantum channels by concepts of Data Driven Inferences. We define an order over the set of positive, trace preserving maps on the existence of another map which when applied would lead to equivalence. Based on Buschemi et. al. [New J. Phys. 21 113029] and Dall'Arno et. al. [Proc. R. Soc. A.47320160721]."
+                    "content": "An attempt to partial ordering of quantum channels by concepts of Data Driven Inferences. We define an order over the set of positive, trace preserving maps on the existence of another map which when applied would lead to equivalence. Based on Buschemi et. al. and Dall'Arno et. al."
                 },
                 {
                     "id": "bera1",
                     "title": "Quantum Resetting of Quantum Systems",
                     "subtitle": [
                         "MN Bera",
-                        "Summer 2021-22"
+                        "Summer 2021-Present"
                     ],
-                    "content": "An ongoing project building on multiple works on Stochastic Resetting of Classical Systems [arXiv:2107.11686] and on Quantum Systems [arXiv:2008.00510.pdf; Phys. Rev. B 98, 104309], and extending Anubhav Srivastava's Master's Thesis [2021, IISER Mohali], we apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. We see that for numerical examples, the convergence rate is faster and much closer to the reset location than in stochastic resetting. We want to extend this faster convergence to potentially speed up Quantum Walks [ISBN:978-3-319-97812-3], speeding up multiple algorithms which depend on Quantum Walks. Further, stochastic resetting can also model certain biological and economical processes which may be better explained by Quantum Resetting."
+                    "content": "An ongoing project building on multiple works on Stochastic Resetting of Classical Systems and on Quantum Systems, and extending Anubhav Srivastava's Master's Thesis, we apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. We hope to speed up Quantum Walks [ISBN:978-3-319-97812-3], speeding up related algorithms which depend on Quantum Walks." 
                 },
                 {
                     "id": "bqp",
                     "title": "Quantum Intern",
                     "subtitle": [
                         "BQP",
-                        "Summer 2022"
+                        "Summer 2022-Present"
                     ],
-                    "content": "Interned at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis."
+                    "content": "Interning at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis."
                 }
             ],
             "col2": [
@@ -161,7 +151,7 @@
                         "Arvind",
                         "Summer 2019"
                     ],
-                    "content": "My First Year Summer Project was an introductory reading to the Mathematical Structures that underlie Quantum Mechanics and then take it forward to a theoretical introduction to Quantum Information and Quantum Computing. I also attempt to simulate a Quantum Computer on a Classical computer and making a <a href='https://github.com/DhruvaSambrani/Quantum-Computing'>Julia module</a> for the same. <a href='/papers/qc.pdf'>This paper</a> serves as a very brief introduction to Quantum Computing and documentation of the code in the form while publishing."
+                    "content": "Studied Mathematical Structures that underlie Quantum Mechanics and a theoretical introduction to QCQI. Also attempted to simulate a Quantum Computer on a Classical computer and making a <a href='https://github.com/DhruvaSambrani/Quantum-Computing'>Julia module</a> for the same. <a href='/papers/qc.pdf'>Report</a> also serves as documentation of the code in the form while publishing."
                 },
                 {
                     "id": "sarah2",
@@ -194,6 +184,7 @@
             "col1": [
                 {
                     "id": "iisermand",
+                    "ignorecv": true,
                     "title": "IISER-M App",
                     "subtitle": [
                         "Android",
@@ -214,10 +205,10 @@
                     "id": "coursera",
                     "title": "Coursera Courses",
                     "subtitle": [
-                        "Python, Scala",
+                        "Python",
                         "Coursera"
                     ],
-                    "content": "Completed the course <a href='https://www.coursera.org/learn/modeling-simulation-natural-processes'>Simulation and modeling of natural processes</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW'>Certificate</a> with a grade of 95.31%<br><br>Completed the Specialization <a href='https://www.coursera.org/specializations/discrete-mathematics'>Introduction to Discrete Mathematics for Computer Science</a> offered by National Research University Higher School of Economics & University of California San Diego. See <a href='https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7'>Certification</a><br/>Courses Completed:<br/>- Mathematical Thinking in Computer Science<br/>- Introduction to Graph Theory<br/>- Combinatorics and Probability<br/>- Delivery Problem<br/>- Number Theory and Cryptography<br><br>Completed the course <a href='https://www.coursera.org/learn/progfun1'>Functional Programming Principles in Scala</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/ZLFHP74QQ86H'>Certificate</a> with a grade of 96.00%"
+                    "content": "Completed the course <a href='https://www.coursera.org/learn/modeling-simulation-natural-processes'>Simulation and modeling of natural processes</a> offered by Geneva University. Received <a href='https://www.coursera.org/account/accomplishments/records/PH29Z7XD65XW'>Certificate</a> with a grade of 95.31%<br>Completed the Specialization <a href='https://www.coursera.org/specializations/discrete-mathematics'>Introduction to Discrete Mathematics for Computer Science</a> offered by National Research University Higher School of Economics & University of California San Diego. See <a href='https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7'>Certification</a>"
                 },
                 {
                     "id": "plutoreport",
@@ -241,6 +232,7 @@
                 },
                 {
                     "id": "minivet",
+                    "ignorecv": true,
                     "title": "Minivet Birding App",
                     "subtitle": [
                         "Android",
@@ -251,6 +243,7 @@
                 {
                     "id": "tetra",
                     "title": "Tetra: Turing Hunt Game Engine",
+                    "ignorecv": true,
                     "subtitle": [
                         "Python",
                         "PySimpleGUI"
@@ -264,7 +257,7 @@
                         "Multiple Languages",
                         "Others"
                     ],
-                    "content": "Do visit my GitHub profile to see my other projects in a multitude of languages and fields! Link at the bottom of the page"
+                    "content": "Do visit my <a href=\"https://github.com/DhruvaSambrani\">GitHub profile</a> to see my other projects in a multitude of languages and fields!" 
                 }
             ]
         },
