@@ -1,15 +1,16 @@
 title: |
   ```{=latex}
-  \Huge\bfseries\color{LightCoral}Dhruva \color{Crimson}Sambrani\color{LightCoral}
+  \Huge\bfseries\color{Crimson}Dhruva Sambrani\color{LightCoral}
   ```
 subtitle: |
   ```{=latex}
-   \faGithub  \href{https://github.com/DhruvaSambrani}{DhruvaSambrani} | \faEnvelope  \href{mailto://dhruvasambrani19@gmail.com}{dhruvasambrani19@gmail.com} | \faLinkedin  \href{https://www.linkedin.com/in/dhruva-sambrani-38960824b}{Dhruva Sambrani} \faLink \href{https://dhruvasambrani.github.io}{https://dhruvasambrani.github.io}  
+   \huge Curriculum Vitae\\
+   \normalsize \faGithub \href{https://github.com/DhruvaSambrani}{DhruvaSambrani} | \faEnvelope \href{mailto://dhruvasambrani19@gmail.com}{dhruvasambrani19@gmail.com} | \faLinkedin \href{https://www.linkedin.com/in/dhruva-sambrani-38960824b}{Dhruva Sambrani} \faLink \href{https://dhruvasambrani.github.io}{https://dhruvasambrani.github.io}
   ```
 date: \today
 colorlinks: true
 urlcolor: MidnightBlue
-geometry: margin=0.7in
+geometry: margin=0.9in
 
 header-includes: |
   ```{=latex}
@@ -17,13 +18,11 @@ header-includes: |
   \usepackage[fixed]{fontawesome5}
   \usepackage[explicit]{titlesec}
   \usepackage{xcolor}
-  \usepackage{soulutf8}
-  \linespread{0.9}
   \titleformat{\section}
   {\color{Crimson}\Large\bfseries}
   {\color{Crimson}\thesection}
   {1em}
-  {#1\color{LightCoral}\titlerule[0.8pt] }
+  {#1\color{LightCoral}\titlerule[0.8pt]}
   \titlespacing*{\section}{0em}{1.2em}{0.6em}
   \titlespacing*{\subsubsection}{0.1em}{0.7em}{0.4em}
   ```
