@@ -49,7 +49,7 @@ CPI: 9.01 (4 Years)
 # Academic Endeavours and Conferences
 
 
-### QICF-22 | YITP-Kyoto | 2022-(Future)
+### QICF-22 | YITP-Kyoto | 2022 (Future)
 
 Weeklong workshop with talks on Quantum Information, Computation and Communication. (Future)
 
@@ -66,7 +66,7 @@ Participated and completed the QGSS-22 which focussed on Quantum and Classical a
 
 Weeklong workshop with talks on Quantum Information, Computation and Communication.
 
-### Vijyoshi Camp | 2017
+### Vijyoshi Camp | KVPY-IISc | 2017
 
 Attended the Vijyoshi camp in December 2017 against KVPY SA
 
