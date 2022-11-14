@@ -328,8 +328,13 @@
             "icon": "github.svg"
         },
         {
+            "name": "fosstodon",
+            "url": "https://fosstodon.org/@dhruvasambrani/",
+            "icon": "masto.svg"
+        },
+        {
             "name": "mastodon",
-            "url": "https://scholar.social/@dhruvasambrani/",
+            "url": "https://qubit-social.xyz/@dhruvasambrani/",
             "icon": "masto.svg"
         },
         {
