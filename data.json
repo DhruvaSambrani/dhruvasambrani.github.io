@@ -51,15 +51,6 @@
                     "content": "Qualified KVPY SA(2016), SX(2017), SB(2018) with a rank of 600, 1118 and 24 respectively and hold a KVPY Fellowship."
                 },
                 {
-                    "id": "kyoto20",
-                    "title": "QICF-20",
-                    "subtitle": [
-                        "YITP-Kyoto",
-                        "2020"
-                    ],
-                    "content": "Weeklong workshop with talks on Quantum Information, Computation and Communication."
-                },
-                {
                     "id": "quant22",
                     "title": "QUANT22",
                     "subtitle": [
@@ -252,6 +243,16 @@
                     "content": "A game engine for the annual Turing Virtual Treasure Hunt. Built in Python with PySimpleGUI."
                 },
                 {
+                    "id": "nptel-haskell",
+                    "ignorecv": true,
+                    "title": "NPTEL - Haskell",
+                    "subtitle": [
+                        "Haskell",
+                        "NPTEL"
+                    ],
+                    "content": "Introduction to Haskell course offered by IIT-M on NPTEL. See final certificate <a href=\"./papers/Introduction To Haskell Programming.jpg\">here</a>"
+                },
+                {
                     "id": "ghlink",
                     "title": "Github Profile",
                     "subtitle": [
@@ -335,6 +336,11 @@
             "name": "linkedin",
             "url": "https://www.linkedin.com/in/dhruva-sambrani-38960824b/",
             "icon": "linkedin.png"
+        },
+        {
+            "name": "orcid",
+            "url": "https://orcid.org/0000-0001-6254-4757",
+            "icon": "orcid.png"
         },
         {
             "name": "rescgate",
