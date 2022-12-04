@@ -49,22 +49,14 @@ CPI: 9.01 (4 Years)
 # Academic Endeavours and Conferences
 
 
-### QICF-22 | YITP-Kyoto | 2022 (Future)
-
-Weeklong workshop with talks on Quantum Information, Computation and Communication. (Future)
-
-### QUANT22 | MPI-PKS Dresden | 2022-(Ongoing)
-
-Four-day school for master students providing an introduction to the fast-moving field of quantum matter, focusing on many-body systems ranging from exotic states of matter to quantum computers
-
 ### Qiskit Global Summer School | Qiskit | 2022
 
 Participated and completed the QGSS-22 which focussed on Quantum and Classical algorithms to simulate chemical systems.\
 [QGSS Certificate.](https://dhruvasambrani.github.io/papers/qgss22-cert.pdf) [Credly Certificate](https://www.credly.com/badges/43838f09-4823-4aaf-9441-b37d66854767/public_url)
 
-### QICF-20 | YITP-Kyoto | 2020
+### QUANT22 | MPI-PKS Dresden | 2022
 
-Weeklong workshop with talks on Quantum Information, Computation and Communication.
+Four-day school for master students providing an introduction to the fast-moving field of quantum matter, focusing on many-body systems ranging from exotic states of matter to quantum computers
 
 ### Vijyoshi Camp | KVPY-IISc | 2017
 
@@ -77,9 +69,9 @@ Qualified KVPY SA(2016), SX(2017), SB(2018) with a rank of 600, 1118 and 24 resp
 # Research and Work Experience - Discovering the World
 
 
-### Quantum Intern | BQP | Summer 2022-Present
+### Quantum Intern | BQP | 2022
 
-Interning at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis.
+Interned at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis. Initially 3 month internship extended to 5 months
 
 ### Superpositioned Grover's Algorithm | MN Bera | Summer 2022
 
@@ -127,6 +119,7 @@ Completed the Specialization [Introduction to Discrete Mathematics for Computer 
 ### PlutoReport.jl | Pluto | Package
 
 A Julia package to make better reports and talks in Pluto Notebooks, especially with citation support, presentation mode with controls and timing, and planned integration with bibliography managers.
+
 
 ### Github Profile | Multiple Languages | Others
 

@@ -55,7 +55,7 @@
                     "title": "QUANT22",
                     "subtitle": [
                         "MPI-PKS Dresden",
-                        "2022-(Ongoing)"
+                        "2022"
                     ],
                     "content": "Four-day school for master students providing an introduction to the fast-moving field of quantum matter, focusing on many-body systems ranging from exotic states of matter to quantum computers"
                 }
@@ -78,15 +78,6 @@
                         "2022"
                     ],
                     "content": "Participated and completed the QGSS-22 which focussed on Quantum and Classical algorithms to simulate chemical systems.<br> <a href=\"/papers/qgss22-cert.pdf\">QGSS Certificate.</a> <a href=\"https://www.credly.com/badges/43838f09-4823-4aaf-9441-b37d66854767/public_url\">Credly Certificate</a>"
-                },
-                {
-                    "id": "kyoto22",
-                    "title": "QICF-22",
-                    "subtitle": [
-                        "YITP-Kyoto",
-                        "2022 (Future)"
-                    ],
-                    "content": "Weeklong workshop with talks on Quantum Information, Computation and Communication. (Future)"
                 }
             ]
         },
@@ -130,9 +121,9 @@
                     "title": "Quantum Intern",
                     "subtitle": [
                         "BQP",
-                        "Summer 2022-Present"
+                        "2022"
                     ],
-                    "content": "Interning at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis."
+                    "content": "Interned at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis. Initially 3 month internship extended to 5 months"
                 }
             ],
             "col2": [
