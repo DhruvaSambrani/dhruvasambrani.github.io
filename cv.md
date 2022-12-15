@@ -49,6 +49,10 @@ CPI: 9.01 (4 Years)
 # Academic Endeavours and Conferences
 
 
+### NSSP 2022 | IAPT, Bangalore | 2022 (Future)
+
+Selected to give a talk on Quantum Walks and Resetting in [NSSP 2022](https://iaptnssp.in/). Work will be published in Student\'s Journal of Physics.
+
 ### Qiskit Global Summer School | Qiskit | 2022
 
 Participated and completed the QGSS-22 which focussed on Quantum and Classical algorithms to simulate chemical systems.\
@@ -73,13 +77,13 @@ Qualified KVPY SA(2016), SX(2017), SB(2018) with a rank of 600, 1118 and 24 resp
 
 Interned at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis. Initially 3 month internship extended to 5 months
 
-### Superpositioned Grover's Algorithm | MN Bera | Summer 2022
+### Quantum Walks and Resetting | MN Bera | Master Thesis
 
-In a similar vein to Quantum Resetting, this is an ongoing project to speed up the Grover\'s Search problem by applying a superposition of the Oracle and the Unitary.
+After studying about quantum walks and search algorithms, I reformulated quantum resetting for walks. We apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. Primarily, we are interested in increase mean first hit time, speeding up related algorithms which depend on Quantum Walks.
 
 ### Quantum Resetting of Quantum Systems | MN Bera | Summer 2021-Present
 
-An ongoing project building on multiple works on Stochastic Resetting of Classical Systems and on Quantum Systems, and extending Anubhav Srivastava\'s Master\'s Thesis, we apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. We hope to speed up Quantum Walks \[ISBN:978-3-319-97812-3\], speeding up related algorithms which depend on Quantum Walks.
+Building on multiple works on Stochastic Resetting of Classical Systems and on Quantum Systems, and implementing a novel quantum resetting. We explored the dynamics, dependance on initial conditions, and time to steady state.
 
 ### RLNN for Quantum Multiple Hypothesis Testing | Sarah Brandsen | Summer 2020
 
@@ -116,7 +120,7 @@ Completed the course [Simulation and modeling of natural processes](https://www.
 Completed the Specialization [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) offered by National Research University Higher School of Economics & University of California San Diego. See [Certification](https://www.coursera.org/account/accomplishments/specialization/H6UDQ3KSJPJ7)
 
 
-### PlutoReport.jl | Pluto | Package
+### PlutoReport.jl | 10.5281/zenodo.7378474 | Pluto Package
 
 A Julia package to make better reports and talks in Pluto Notebooks, especially with citation support, presentation mode with controls and timing, and planned integration with bibliography managers.
 
@@ -124,4 +128,17 @@ A Julia package to make better reports and talks in Pluto Notebooks, especially 
 ### Github Profile | Multiple Languages | Others
 
 Do visit my [GitHub profile](https://github.com/DhruvaSambrani) to see my other projects in a multitude of languages and fields!
+
+# Extra-Curricular Activities
+
+
+### Data All The Way
+
+Contributed in translating R code to Julia code on the info-blog [Data All The Way](dataalltheway.com). The blog aims to have Data science tutorials and how-tos, with associated code.
+
+
+
+### Convener, Turing Club | IISER-M | 2019-21
+
+Convener of the Turing Club of IISER Mohali in the academic year of 2019-20, and the interim Convener for 2020-21
 

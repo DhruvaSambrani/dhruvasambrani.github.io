@@ -58,6 +58,15 @@
                         "2022"
                     ],
                     "content": "Four-day school for master students providing an introduction to the fast-moving field of quantum matter, focusing on many-body systems ranging from exotic states of matter to quantum computers"
+                },
+                {
+                    "id": "nssp-iapt",
+                    "title": "NSSP 2022",
+                    "subtitle": [
+                        "IAPT, Bangalore",
+                        "2022 (Future)"
+                    ],
+                    "content": "Selected to give a talk on Quantum Walks and Resetting in <a href=\"https://iaptnssp.in/\">NSSP 2022</a>. Work will be published in Student's Journal of Physics."
                 }
             ],
             "col2": [
@@ -114,7 +123,7 @@
                         "MN Bera",
                         "Summer 2021-Present"
                     ],
-                    "content": "An ongoing project building on multiple works on Stochastic Resetting of Classical Systems and on Quantum Systems, and extending Anubhav Srivastava's Master's Thesis, we apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. We hope to speed up Quantum Walks [ISBN:978-3-319-97812-3], speeding up related algorithms which depend on Quantum Walks." 
+                    "content": "Building on multiple works on Stochastic Resetting of Classical Systems and on Quantum Systems, and implementing a novel quantum resetting. We explored the dynamics, dependance on initial conditions, and time to steady state." 
                 },
                 {
                     "id": "bqp",
@@ -147,12 +156,12 @@
                 },
                 {
                     "id": "bera2",
-                    "title": "Superpositioned Grover's Algorithm",
+                    "title": "Quantum Walks and Resetting",
                     "subtitle": [
                         "MN Bera",
-                        "Summer 2022"
+                        "Master Thesis"
                     ],
-                    "content": "In a similar vein to Quantum Resetting, this is an ongoing project to speed up the Grover's Search problem by applying a superposition of the Oracle and the Unitary."
+                    "content": "After studying about quantum walks and search algorithms, I reformulated quantum resetting for walks. We apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. Primarily, we are interested in increase mean first hit time, speeding up related algorithms which depend on Quantum Walks."
                 }
             ]
         },
@@ -197,8 +206,8 @@
                     "id": "plutoreport",
                     "title": "PlutoReport.jl",
                     "subtitle": [ 
-                        "Pluto",
-                        "Package"
+                        "10.5281/zenodo.7378474",
+                        "Pluto Package"
                     ],
                     "content": "A Julia package to make better reports and talks in Pluto Notebooks, especially with citation support, presentation mode with controls and timing, and planned integration with bibliography managers."
                 }
@@ -257,7 +266,6 @@
         {
             "pageid": "excc",
             "pagename": "Extra-Curricular Activities",
-            "ignorecv": true,
             "colorscheme": [
                 "light",
                 "bg-gold"
@@ -270,15 +278,25 @@
                         "2016",
                         "Prakriya"
                     ],
+                    "ignorecv": true,
                     "content": "As a way to give back to the community, I taught underprivileged children English and Mathematics for two weeks in my school in 2016. The group involved two children, both of whom had learning disorders."
                 },
                 {
                     "id": "pgraphy",
                     "title": "Photography",
+                    "ignorecv": true,
                     "subtitle": [
                         ""
                     ],
                     "content": "I also occasionally dabble in photography, though I don't consider myself to be very good at it 😅. Visit my <a href='/photography/index'>Photography Page</a> for a peek at some of my photos!"
+                },
+                {
+                    "id": "datw",
+                    "title": "Data All The Way",
+                    "subtitle": [
+                        ""
+                    ],
+                    "content": "Contributed in translating R code to Julia code on the info-blog <a href=\"dataalltheway.com\">Data All The Way</a>. The blog aims to have Data science tutorials and how-tos, with associated code."
                 }
             ],
             "col2": [
@@ -294,6 +312,7 @@
                 {
                     "id": "blog",
                     "title": "Blog",
+                    "ignorecv": true,
                     "subtitle": [
                         ""
                     ],
