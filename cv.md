@@ -49,7 +49,7 @@ CPI: 9.01 (4 Years)
 # Academic Endeavours and Conferences
 
 
-### NSSP 2022 | IAPT, Bangalore | 2022 (Future)
+### NSSP 2022 | IAPT, Bangalore | Dec 2022
 
 Selected to give a talk on Quantum Walks and Resetting in [NSSP 2022](https://iaptnssp.in/). Work will be published in Student\'s Journal of Physics.
 
