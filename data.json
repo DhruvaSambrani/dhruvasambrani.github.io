@@ -103,7 +103,7 @@
                     "title": "Relativistic Black Body Radiation",
                     "subtitle": [
                         "JS Bagla",
-                        "Winter 2018"
+                        "Dec 2018"
                     ],
                     "content": "I studied <a href='/papers/bbr_vel_trans.pdf'>Black body radiation in special relativistic frames</a> under <a href='http://14.139.227.202/Faculty/jasjeet/index.html'>JS Bagla, IISER Mohali</a>, where I looked at how Black Body Radiation transforms in a frame that is moving uniformly with respect to the source. The <a href='/papers/bbr_f_on_particle.pdf'>quantitative analysis</a> of the force due to non uniform radiation is done using numerical methods in Julia."
                 },
@@ -112,7 +112,7 @@
                     "title": "Ordering Channels",
                     "subtitle": [
                         "Sarah Brandsen",
-                        "Winter 2020"
+                        "Dec 2020-Jan 2021" 
                     ],
                     "content": "An attempt to partial ordering of quantum channels by concepts of Data Driven Inferences. We define an order over the set of positive, trace preserving maps on the existence of another map which when applied would lead to equivalence. Based on Buschemi et. al. and Dall'Arno et. al."
                 },
@@ -121,7 +121,7 @@
                     "title": "Quantum Resetting of Quantum Systems",
                     "subtitle": [
                         "MN Bera",
-                        "Summer 2021-Present"
+                        "May-July 2021"
                     ],
                     "content": "Building on multiple works on Stochastic Resetting of Classical Systems and on Quantum Systems, and implementing a novel quantum resetting. We explored the dynamics, dependance on initial conditions, and time to steady state." 
                 },
@@ -130,7 +130,7 @@
                     "title": "Quantum Intern",
                     "subtitle": [
                         "BQP",
-                        "2022"
+                        "May-Nov 2022"
                     ],
                     "content": "Interned at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis. Initially 3 month internship extended to 5 months"
                 }
@@ -141,7 +141,7 @@
                     "title": "Introduction to Quantum Mechanics and Computing",
                     "subtitle": [
                         "Arvind",
-                        "Summer 2019"
+                        "May-July 2019"
                     ],
                     "content": "Studied Mathematical Structures that underlie Quantum Mechanics and a theoretical introduction to QCQI. Also attempted to simulate a Quantum Computer on a Classical computer and making a <a href='https://github.com/DhruvaSambrani/Quantum-Computing'>Julia module</a> for the same. <a href='/papers/qc.pdf'>Report</a> also serves as documentation of the code in the form while publishing."
                 },
@@ -150,7 +150,7 @@
                     "title": "RLNN for Quantum Multiple Hypothesis Testing",
                     "subtitle": [
                         "Sarah Brandsen",
-                        "Summer 2020"
+                        "Oct-Nov 2020"
                     ],
                     "content": "Studied RLNN is used for Quantum Multiple Hypothesis Testing. Project involved learning about RLNN and I helped optimize certain parts of the code for the suggested algorithm."
                 },
@@ -159,7 +159,7 @@
                     "title": "Quantum Walks and Resetting",
                     "subtitle": [
                         "MN Bera",
-                        "Master Thesis"
+                        "Master Thesis, Aug 2022-May 2023"
                     ],
                     "content": "After studying about quantum walks and search algorithms, I reformulated quantum resetting for walks. We apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. Primarily, we are interested in increase mean first hit time, speeding up related algorithms which depend on Quantum Walks."
                 }

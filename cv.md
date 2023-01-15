@@ -73,31 +73,31 @@ Qualified KVPY SA(2016), SX(2017), SB(2018) with a rank of 600, 1118 and 24 resp
 # Research and Work Experience - Discovering the World
 
 
-### Quantum Intern | BQP | 2022
+### Quantum Intern | BQP | May-Nov 2022
 
 Interned at BosonQ Psi in the Quantum team where I proposed and built methods to solve problems of interest as part of a multiskilled team. Projects I was involved in were related to Feynman-Kac equation, Quantum Monte Carlo methods and Complexity analysis. Initially 3 month internship extended to 5 months
 
-### Quantum Walks and Resetting | MN Bera | Master Thesis
+### Quantum Walks and Resetting | MN Bera | Master Thesis, Aug 2022-May 2023
 
 After studying about quantum walks and search algorithms, I reformulated quantum resetting for walks. We apply a superposition of the evolve and the reset mechanisms and explore the resulting dynamics of the system. Primarily, we are interested in increase mean first hit time, speeding up related algorithms which depend on Quantum Walks.
 
-### Quantum Resetting of Quantum Systems | MN Bera | Summer 2021-Present
+### Quantum Resetting of Quantum Systems | MN Bera | May-July 2021
 
 Building on multiple works on Stochastic Resetting of Classical Systems and on Quantum Systems, and implementing a novel quantum resetting. We explored the dynamics, dependance on initial conditions, and time to steady state.
 
-### RLNN for Quantum Multiple Hypothesis Testing | Sarah Brandsen | Summer 2020
+### RLNN for Quantum Multiple Hypothesis Testing | Sarah Brandsen | Oct-Nov 2020
 
 Studied RLNN is used for Quantum Multiple Hypothesis Testing. Project involved learning about RLNN and I helped optimize certain parts of the code for the suggested algorithm.
 
-### Ordering Channels | Sarah Brandsen | Winter 2020
+### Ordering Channels | Sarah Brandsen | Dec 2020-Jan 2021
 
 An attempt to partial ordering of quantum channels by concepts of Data Driven Inferences. We define an order over the set of positive, trace preserving maps on the existence of another map which when applied would lead to equivalence. Based on Buschemi et. al. and Dall\'Arno et. al.
 
-### Introduction to Quantum Mechanics and Computing | Arvind | Summer 2019
+### Introduction to Quantum Mechanics and Computing | Arvind | May-July 2019
 
 Studied Mathematical Structures that underlie Quantum Mechanics and a theoretical introduction to QCQI. Also attempted to simulate a Quantum Computer on a Classical computer and making a [Julia module](https://github.com/DhruvaSambrani/Quantum-Computing) for the same. [Report](https://dhruvasambrani.github.io/papers/qc.pdf) also serves as documentation of the code in the form while publishing.
 
-### Relativistic Black Body Radiation | JS Bagla | Winter 2018
+### Relativistic Black Body Radiation | JS Bagla | Dec 2018
 
 I studied [Black body radiation in special relativistic frames](https://dhruvasambrani.github.io/papers/bbr_vel_trans.pdf) under [JS Bagla, IISER Mohali](http://14.139.227.202/Faculty/jasjeet/index.html), where I looked at how Black Body Radiation transforms in a frame that is moving uniformly with respect to the source. The [quantitative analysis](https://dhruvasambrani.github.io/papers/bbr_f_on_particle.pdf) of the force due to non uniform radiation is done using numerical methods in Julia.
 
