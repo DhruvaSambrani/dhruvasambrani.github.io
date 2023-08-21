@@ -32,9 +32,19 @@ header-includes: |
 # Educational Qualifications
 
 
+### Indian Certificate of Secondary Examination | 2016 | Prakriya Green Wisdom School
+
+90%
+
+### Pre Univercity Examination | 2018 | Primus Public School
+
+88%
+
 ### BS-MS | 2018-2023 | IISER Mohali
 
-CPI: 9.01 (4 Years)
+CPI: 9.01\
+Major: Physics\
+Minor: Science
 
 ### Relevant Elective Courses | 2018-2023 | IISER Mohali
 

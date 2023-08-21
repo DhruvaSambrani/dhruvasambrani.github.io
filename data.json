@@ -12,16 +12,34 @@
             ],
             "col1": [
                 {
+                    "id": "prakriya",
+                    "title": "Indian Certificate of Secondary Examination",
+                    "subtitle": [
+                        "2016",
+                        "Prakriya Green Wisdom School"
+                    ],
+                    "content": "90%"
+                },
+                {
                     "id": "bs-ms",
                     "title": "BS-MS",
                     "subtitle": [
                         "2018-2023",
                         "IISER Mohali"
                     ],
-                    "content": "CPI: 9.01 (4 Years)"
+                    "content": "CPI: 9.01<br>Major: Physics<br>Minor: Science"
                 }
             ],
             "col2": [
+                {
+                    "id": "primus",
+                    "title": "Pre Univercity Examination",
+                    "subtitle": [
+                        "2018",
+                        "Primus Public School"
+                    ],
+                    "content": "88%"
+                },
                 {
                     "id": "courses",
                     "title": "Relevant Elective Courses",
