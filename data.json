@@ -5,7 +5,7 @@
         {
             "pageid": "edu",
             "pagename": "Educational Qualifications",
-            "reversecv": false,
+            "reversecv": true,
             "colorscheme": [
                 "dark",
                 "bg-dark-blue"
@@ -27,7 +27,7 @@
                         "2018-2023",
                         "IISER Mohali"
                     ],
-                    "content": "CPI: 9.01<br>Major: Physics<br>Minor: Science"
+                    "content": "CPI: 9.01<br>Major: Physics<br>Minor: Science <br>- Quantum Computing and Quantum Information<br>- Random Processes<br>- Non Linear Dynamics<br>- Modelling Complex Systems<br>- Network Science<br>- Theory of Computation<br>- Machine Learning and Data Science"
                 }
             ],
             "col2": [
@@ -39,15 +39,6 @@
                         "Primus Public School"
                     ],
                     "content": "88%"
-                },
-                {
-                    "id": "courses",
-                    "title": "Relevant Elective Courses",
-                    "subtitle": [
-                        "2018-2023",
-                        "IISER Mohali"
-                    ],
-                    "content": "- Quantum Computing and Quantum Information<br>- Random Processes<br>- Non Linear Dynamics<br>- Modelling Complex Systems<br>- Network Science<br>- Theory of Computation<br>- Machine Learning and Data Science"
                 }
             ]
         },

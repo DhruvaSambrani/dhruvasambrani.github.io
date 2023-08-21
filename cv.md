@@ -32,29 +32,26 @@ header-includes: |
 # Educational Qualifications
 
 
-### Indian Certificate of Secondary Examination | 2016 | Prakriya Green Wisdom School
-
-90%
-
-### Pre Univercity Examination | 2018 | Primus Public School
-
-88%
-
 ### BS-MS | 2018-2023 | IISER Mohali
 
 CPI: 9.01\
 Major: Physics\
-Minor: Science
-
-### Relevant Elective Courses | 2018-2023 | IISER Mohali
-
-\- Quantum Computing and Quantum Information\
+Minor: Science\
+- Quantum Computing and Quantum Information\
 - Random Processes\
 - Non Linear Dynamics\
 - Modelling Complex Systems\
 - Network Science\
 - Theory of Computation\
 - Machine Learning and Data Science
+
+### Pre Univercity Examination | 2018 | Primus Public School
+
+88%
+
+### Indian Certificate of Secondary Examination | 2016 | Prakriya Green Wisdom School
+
+90%
 
 # Academic Endeavours and Conferences
 
