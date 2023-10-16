@@ -36,14 +36,9 @@ header-includes: |
 
 CPI: 9.01\
 Major: Physics\
-Minor: Science\
-- Quantum Computing and Quantum Information\
-- Random Processes\
-- Non Linear Dynamics\
-- Modelling Complex Systems\
-- Network Science\
-- Theory of Computation\
-- Machine Learning and Data Science
+Minor: Data Science\
+Relavant Courses: Quantum Computing and Quantum Information, Random Processes, Non Linear Dynamics, Modelling Complex Systems, Network Science, Theory of Computation, Machine Learning and Data Science\
+Masters Thesis: Quantum Resetting of Walks. [Online Version](https://dhruvasambrani.github.io/thesis-web)
 
 ### Pre Univercity Examination | 2018 | Primus Public School
 
